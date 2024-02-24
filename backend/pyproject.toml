@@ -1,0 +1,19 @@
+[project]
+name = "xtrending"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Kanishk Pachauri", email = "itskanishkp.py@gmail.com"},
+]
+dependencies = [
+    "fastapi>=0.109.2",
+    "twitter-api-client>=0.5.7",
+    "databases>=0.8.0",
+]
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false

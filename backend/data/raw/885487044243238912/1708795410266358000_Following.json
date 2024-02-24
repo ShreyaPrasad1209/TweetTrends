@@ -1,0 +1,148 @@
+{
+  "ID": 885487044243238912,
+  "data": {
+    "user": {
+      "result": {
+        "__typename": "User",
+        "timeline": {
+          "timeline": {
+            "instructions": [
+              {
+                "type": "TimelineClearCache"
+              },
+              {
+                "type": "TimelineTerminateTimeline",
+                "direction": "Top"
+              },
+              {
+                "type": "TimelineTerminateTimeline",
+                "direction": "Bottom"
+              },
+              {
+                "type": "TimelineAddEntries",
+                "entries": [
+                  {
+                    "entryId": "user-1321680845925613569",
+                    "sortIndex": "1761441734291619840",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMzIxNjgwODQ1OTI1NjEzNTY5",
+                            "rest_id": "1321680845925613569",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu Oct 29 05:11:32 +0000 2020",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Official Twitter account of the Rashtrapati Bhavan Archives; managed by the President's Secretariat. For updates on the 15th Presidency, follow @rashtrapatibhvn",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "presidentofindia.nic.in",
+                                      "expanded_url": "https://presidentofindia.nic.in/",
+                                      "url": "https://t.co/ujPalkWjUr",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 0,
+                              "followers_count": 500619,
+                              "friends_count": 1,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 72,
+                              "location": "New Delhi, India",
+                              "media_count": 269,
+                              "name": "Rashtrapati Bhavan Archives",
+                              "normal_followers_count": 500619,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1321680845925613569/1603948628",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1321681223249326081/Bh0RP3aW_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "RBArchive",
+                              "statuses_count": 285,
+                              "translator_type": "none",
+                              "url": "https://t.co/ujPalkWjUr",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-2597413135",
+                    "sortIndex": "1761441734291619839",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {},
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "cursor-bottom-1761441734291619838",
+                    "sortIndex": "1761441734291619838",
+                    "content": {
+                      "entryType": "TimelineTimelineCursor",
+                      "__typename": "TimelineTimelineCursor",
+                      "value": "0|1761441734291619836",
+                      "cursorType": "Bottom"
+                    }
+                  },
+                  {
+                    "entryId": "cursor-top-1761441734291619841",
+                    "sortIndex": "1761441734291619841",
+                    "content": {
+                      "entryType": "TimelineTimelineCursor",
+                      "__typename": "TimelineTimelineCursor",
+                      "value": "-1|1761441734291619841",
+                      "cursorType": "Top"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

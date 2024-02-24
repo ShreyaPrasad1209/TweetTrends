@@ -1,0 +1,338 @@
+{
+  "data": {
+    "user": {
+      "result": {
+        "__typename": "User",
+        "timeline": {
+          "timeline": {
+            "instructions": [
+              {
+                "type": "TimelineAddEntries",
+                "entries": [
+                  {
+                    "entryId": "user-171117515",
+                    "sortIndex": "1761452658561907228",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxNzExMTc1MTU=",
+                            "rest_id": "171117515",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Mon Jul 26 16:06:52 +0000 2010",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Founder/owner - @oursorai & @umganulodge.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "oursorai.com",
+                                      "expanded_url": "http://www.oursorai.com",
+                                      "url": "https://t.co/CSYjhGYolX",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 45759,
+                              "followers_count": 3950587,
+                              "friends_count": 386,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 5550,
+                              "location": "",
+                              "media_count": 186,
+                              "name": "Kevin Pietersen🦏",
+                              "normal_followers_count": 3950587,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/171117515/1693641818",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1753422171068940288/Zkkr7Alu_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "KP24",
+                              "statuses_count": 895,
+                              "translator_type": "none",
+                              "url": "https://t.co/CSYjhGYolX",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-101695592",
+                    "sortIndex": "1761452658561907227",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMDE2OTU1OTI=",
+                            "rest_id": "101695592",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Mon Jan 04 07:51:32 +0000 2010",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 38,
+                              "followers_count": 26824886,
+                              "friends_count": 66,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 20364,
+                              "location": "",
+                              "media_count": 12,
+                              "name": "Deepika Padukone",
+                              "normal_followers_count": 26824886,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/101695592/1612788132",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344886403444817920/uvBOq5Wc_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "deepikapadukone",
+                              "statuses_count": 664,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-71201743",
+                    "sortIndex": "1761452658561907226",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo3MTIwMTc0Mw==",
+                            "rest_id": "71201743",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu Sep 03 07:57:30 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "A proud husband and father ❤️",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "one8.com",
+                                      "expanded_url": "http://one8.com",
+                                      "url": "https://t.co/ec8skIzXFO",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 244,
+                              "followers_count": 61171385,
+                              "friends_count": 61,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 9624,
+                              "location": "",
+                              "media_count": 1481,
+                              "name": "Virat Kohli",
+                              "normal_followers_count": 61171385,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1562753500726976514/EPSUNyR3_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "imVkohli",
+                              "statuses_count": 2928,
+                              "translator_type": "regular",
+                              "url": "https://t.co/ec8skIzXFO",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-101311381",
+                    "sortIndex": "1761452658561907225",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMDEzMTEzODE=",
+                            "rest_id": "101311381",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Sat Jan 02 20:55:43 +0000 2010",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "twitter.com/iamsrk",
+                                      "expanded_url": "https://twitter.com/iamsrk",
+                                      "url": "https://t.co/zq9V88ex1r",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 36,
+                              "followers_count": 44048021,
+                              "friends_count": 74,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 27854,
+                              "location": "",
+                              "media_count": 1645,
+                              "name": "Shah Rukh Khan",
+                              "normal_followers_count": 44048021,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/101311381/1454256204",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1692780873546952704/vXjQc2Og_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "iamsrk",
+                              "statuses_count": 60175,
+                              "translator_type": "regular",
+                              "url": "https://t.co/zq9V88ex1r",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "cursor-bottom-1761452658561907224",
+                    "sortIndex": "1761452658561907224",
+                    "content": {
+                      "entryType": "TimelineTimelineCursor",
+                      "__typename": "TimelineTimelineCursor",
+                      "value": "0|1761452658561907222",
+                      "cursorType": "Bottom"
+                    }
+                  },
+                  {
+                    "entryId": "cursor-top-1761452658561907229",
+                    "sortIndex": "1761452658561907229",
+                    "content": {
+                      "entryType": "TimelineTimelineCursor",
+                      "__typename": "TimelineTimelineCursor",
+                      "value": "-1|1761452658561907229",
+                      "cursorType": "Top"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "ID": 402064691
+}

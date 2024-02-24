@@ -1,0 +1,3678 @@
+{
+  "data": {
+    "user": {
+      "result": {
+        "__typename": "User",
+        "timeline": {
+          "timeline": {
+            "instructions": [
+              {
+                "type": "TimelineAddEntries",
+                "entries": [
+                  {
+                    "entryId": "user-19015961",
+                    "sortIndex": "1761452658566100488",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxOTAxNTk2MQ==",
+                            "rest_id": "19015961",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu Jan 15 09:03:01 +0000 2009",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "#Gujarat growth engine of India under the visionary leadership of PM @narendramodi & CM @bhupendrapbjp",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 0,
+                              "followers_count": 17779,
+                              "friends_count": 44,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 56,
+                              "location": "India",
+                              "media_count": 163,
+                              "name": "Viksit Gujarat",
+                              "normal_followers_count": 17779,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1754101181989978112/59nl9xhf_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "ViksitGujarat",
+                              "statuses_count": 2827,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-365366415",
+                    "sortIndex": "1761452658566100487",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjozNjUzNjY0MTU=",
+                            "rest_id": "365366415",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed Aug 31 09:46:42 +0000 2011",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 14394,
+                              "followers_count": 2767,
+                              "friends_count": 997,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 41,
+                              "location": "Surat, Gujarat",
+                              "media_count": 143,
+                              "name": "Hiren Desai",
+                              "normal_followers_count": 2767,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/365366415/1706100284",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1750136961875259392/dB7RIwXK_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "HLDesai",
+                              "statuses_count": 37500,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-605408543",
+                    "sortIndex": "1761452658566100486",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo2MDU0MDg1NDM=",
+                            "rest_id": "605408543",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Mon Jun 11 13:14:15 +0000 2012",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Official A/C of BJP IT Cell Nadiad. Contact No - +91 9998143333",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 539,
+                              "followers_count": 10293,
+                              "friends_count": 230,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 20,
+                              "location": "Nadiad, Gujarat. ",
+                              "media_count": 160,
+                              "name": "BJP IT Cell Nadiad",
+                              "normal_followers_count": 10293,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/605408543/1413571394",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/444527127942025216/X6mrBmGv_normal.jpeg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "BJPITCELLNadiad",
+                              "statuses_count": 2646,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-17752369",
+                    "sortIndex": "1761452658566100485",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxNzc1MjM2OQ==",
+                            "rest_id": "17752369",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": true,
+                              "can_media_tag": false,
+                              "created_at": "Sun Nov 30 10:35:04 +0000 2008",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Nationalist, Modi follower",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1787,
+                              "followers_count": 2324,
+                              "friends_count": 2276,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 16,
+                              "location": "",
+                              "media_count": 1092,
+                              "name": "Right-Indian",
+                              "normal_followers_count": 2324,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/17752369/1479069675",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1554438879293411329/KCBECCxV_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "vbpulla",
+                              "statuses_count": 26050,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-480506865",
+                    "sortIndex": "1761452658566100484",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0ODA1MDY4NjU=",
+                            "rest_id": "480506865",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed Feb 01 15:39:38 +0000 2012",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Ex Chairman Rashtriya Kamdhenu Aayog, Minister for Health & Family Welfare; HRD & Heavy Industry & PE;GoI, MP Rajkot (LS), Founder GCCI",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "drkathiria.org",
+                                      "expanded_url": "http://www.drkathiria.org",
+                                      "url": "https://t.co/DqpbI4NpgC",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 156094,
+                              "followers_count": 11313,
+                              "friends_count": 822,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 37,
+                              "location": "Rajkot",
+                              "media_count": 1971,
+                              "name": "Dr.Vallabh Kathiria",
+                              "normal_followers_count": 11313,
+                              "pinned_tweet_ids_str": [
+                                "1557405216550465536"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/480506865/1535526872",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1744726696765632512/RBAiVfyQ_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "DrKathiria",
+                              "statuses_count": 30107,
+                              "translator_type": "none",
+                              "url": "https://t.co/DqpbI4NpgC",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-292251723",
+                    "sortIndex": "1761452658566100483",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyOTIyNTE3MjM=",
+                            "rest_id": "292251723",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Tue May 03 10:42:08 +0000 2011",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Advocating efforts towards imparting a progressive change centred on Transparency & Accountability in Governance.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "youtube.com/ibtlx",
+                                      "expanded_url": "http://youtube.com/ibtlx",
+                                      "url": "https://t.co/HBxNXr3doH",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 4477,
+                              "followers_count": 47532,
+                              "friends_count": 142,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 303,
+                              "location": "India",
+                              "media_count": 7769,
+                              "name": "Truth by IBTL",
+                              "normal_followers_count": 47532,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/292251723/1588578011",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1560125395735027712/W77T1qOg_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "ibtlx",
+                              "statuses_count": 60353,
+                              "translator_type": "none",
+                              "url": "https://t.co/HBxNXr3doH",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-123155023",
+                    "sortIndex": "1761452658566100482",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMjMxNTUwMjM=",
+                            "rest_id": "123155023",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Mon Mar 15 05:17:23 +0000 2010",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Hindu Tan Man, Hindu Jeevan, Rag Rag Hindu mera Parichay! \r\n\r\nEngineer nd Economist, trained in both",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 412,
+                              "followers_count": 2734,
+                              "friends_count": 223,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 20,
+                              "location": "",
+                              "media_count": 804,
+                              "name": "Rudra Sekhar",
+                              "normal_followers_count": 2734,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/123155023/1378653301",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000134293515/2b4da28bee7ff754714fb760fbe30b13_normal.jpeg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "RudraHindu",
+                              "statuses_count": 42670,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-130823039",
+                    "sortIndex": "1761452658566100481",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMzA4MjMwMzk=",
+                            "rest_id": "130823039",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu Apr 08 12:33:29 +0000 2010",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "|| राष्ट्रवादी एवं आध्यात्मिक भारतीय ||\nAn Attentive & Conscious Observer, An Eternal Wanderer in this cycle of 'Brahman'. \n||वयम् राष्ट्रे जागृयाम पुरोहिता:||",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "cpdarshi.com",
+                                      "expanded_url": "https://cpdarshi.com",
+                                      "url": "https://t.co/esxCroxXpW",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 569,
+                              "followers_count": 2049,
+                              "friends_count": 650,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 21,
+                              "location": "Nalanda, Bharat",
+                              "media_count": 377,
+                              "name": "Chandan Priyadarshi",
+                              "normal_followers_count": 2049,
+                              "pinned_tweet_ids_str": [
+                                "1749328986902233535"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/130823039/1518611227",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1748993385434869760/xiCbDCTS_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "cpdarshi",
+                              "statuses_count": 16082,
+                              "translator_type": "none",
+                              "url": "https://t.co/esxCroxXpW",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "professional": {
+                              "rest_id": "1559548831951228929",
+                              "professional_type": "Business",
+                              "category": [
+                                {
+                                  "id": 954,
+                                  "name": "Blogger",
+                                  "icon_name": "IconBriefcaseStroke"
+                                }
+                              ]
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-416542960",
+                    "sortIndex": "1761452658566100480",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0MTY1NDI5NjA=",
+                            "rest_id": "416542960",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Sat Nov 19 20:56:08 +0000 2011",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "🔸Former Cabinet Minister,Government of Gujarat 🔸Former Vice President,state Bjp 🔸Tweets Personal,retweets r not Endorsement 🔸",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 15753,
+                              "followers_count": 184230,
+                              "friends_count": 1077,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 125,
+                              "location": "GANDHINAGAR, GUJARAT ",
+                              "media_count": 3838,
+                              "name": "I.K.JADEJA",
+                              "normal_followers_count": 184230,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/416542960/1632260468",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1561479558854889472/a3EFhB7g_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "IKJadejaBJP",
+                              "statuses_count": 13017,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-478469228",
+                    "sortIndex": "1761452658566100479",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0Nzg0NjkyMjg=",
+                            "rest_id": "478469228",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": true,
+                              "can_media_tag": true,
+                              "created_at": "Mon Jan 30 09:44:24 +0000 2012",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Ex Deputy Chief Minister of Gujarat",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "nitinpatel.org.in",
+                                      "expanded_url": "https://nitinpatel.org.in",
+                                      "url": "https://t.co/q9eHIsPwRv",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 36,
+                              "followers_count": 899698,
+                              "friends_count": 252,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 403,
+                              "location": "Gujarat, India",
+                              "media_count": 2756,
+                              "name": "Nitin Patel",
+                              "normal_followers_count": 899698,
+                              "pinned_tweet_ids_str": [
+                                "1450092898217725961"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/478469228/1634793532",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1606872084332019712/96q_BwtJ_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "Nitinbhai_Patel",
+                              "statuses_count": 4914,
+                              "translator_type": "none",
+                              "url": "https://t.co/q9eHIsPwRv",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-374499903",
+                    "sortIndex": "1761452658566100478",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjozNzQ0OTk5MDM=",
+                            "rest_id": "374499903",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Fri Sep 16 12:35:22 +0000 2011",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Chairman - NCUI, IFFCO, GUJCOMASOL Former Minister - Gujarat Former MP – Amreli #SahakarSeSamriddhi",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "dileepsanghani.com",
+                                      "expanded_url": "http://www.dileepsanghani.com",
+                                      "url": "https://t.co/eoMq6X7y3t",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 5215,
+                              "followers_count": 26865,
+                              "friends_count": 20,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 33,
+                              "location": "Gandhinagar, Gujarat, INDIA",
+                              "media_count": 1976,
+                              "name": "Dileep Sanghani",
+                              "normal_followers_count": 26865,
+                              "pinned_tweet_ids_str": [
+                                "1473639224083509254"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/374499903/1548612966",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1700819657035554816/LgzacGs6_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "Dileep_Sanghani",
+                              "statuses_count": 8467,
+                              "translator_type": "none",
+                              "url": "https://t.co/eoMq6X7y3t",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-481873419",
+                    "sortIndex": "1761452658566100477",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0ODE4NzM0MTk=",
+                            "rest_id": "481873419",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Fri Feb 03 08:24:36 +0000 2012",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "BJP Gujarat",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 47046,
+                              "followers_count": 380542,
+                              "friends_count": 146,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 167,
+                              "location": "Gandhinagar, India",
+                              "media_count": 5686,
+                              "name": "Pradipsinh Jadeja",
+                              "normal_followers_count": 380542,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/481873419/1708684137",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1712435984368115712/vG7qWZGE_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "PradipsinhGuj",
+                              "statuses_count": 23454,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-124684990",
+                    "sortIndex": "1761452658566100476",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMjQ2ODQ5OTA=",
+                            "rest_id": "124684990",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Sat Mar 20 06:26:58 +0000 2010",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Union Cabinet Minister of Fisheries, Animal Husbandry and Dairying - Govt. of India, Member of Parliament (Rajya Sabha)",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "parshottamrupala.com",
+                                      "expanded_url": "https://www.parshottamrupala.com/",
+                                      "url": "https://t.co/0CSQ40zam6",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 13380,
+                              "followers_count": 509803,
+                              "friends_count": 347,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 350,
+                              "location": "New Delhi, India",
+                              "media_count": 9882,
+                              "name": "Parshottam Rupala",
+                              "normal_followers_count": 509803,
+                              "pinned_tweet_ids_str": [
+                                "1706222850145915220"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/124684990/1559456844",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1742985914971029504/cuxaXqL4_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "PRupala",
+                              "statuses_count": 24084,
+                              "translator_type": "none",
+                              "url": "https://t.co/0CSQ40zam6",
+                              "verified": false,
+                              "verified_type": "Government",
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-477910668",
+                    "sortIndex": "1761452658566100475",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0Nzc5MTA2Njg=",
+                            "rest_id": "477910668",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Sun Jan 29 18:07:46 +0000 2012",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Member of legislative assembly - Halol Vidhansabha, (Gujarat state Assembly)",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "en.wikipedia.org/wiki/Jaydraths…",
+                                      "expanded_url": "https://en.wikipedia.org/wiki/Jaydrathsinh_Parmar",
+                                      "url": "https://t.co/P2CcPKW4hQ",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 2930,
+                              "followers_count": 27175,
+                              "friends_count": 69,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 52,
+                              "location": "Halol",
+                              "media_count": 4458,
+                              "name": "Jaydrathsinh Parmar",
+                              "normal_followers_count": 27175,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/477910668/1486015829",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1566293648979165190/dUngvk4z_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "Jaydrathsinhji",
+                              "statuses_count": 6528,
+                              "translator_type": "none",
+                              "url": "https://t.co/P2CcPKW4hQ",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-305603067",
+                    "sortIndex": "1761452658566100474",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjozMDU2MDMwNjc=",
+                            "rest_id": "305603067",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu May 26 14:06:55 +0000 2011",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "President @BJP4Gujarat, Member of Parliament-Navsari",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "t.me/crpatilmp",
+                                      "expanded_url": "https://t.me/crpatilmp",
+                                      "url": "https://t.co/vM4QMC1xia",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 58920,
+                              "followers_count": 509289,
+                              "friends_count": 523,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 691,
+                              "location": "Surat, Gujrat",
+                              "media_count": 11784,
+                              "name": "C R Paatil",
+                              "normal_followers_count": 509289,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/305603067/1409627793",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1749052097247707136/AC3MQw6b_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "CRPaatil",
+                              "statuses_count": 78970,
+                              "translator_type": "none",
+                              "url": "https://t.co/vM4QMC1xia",
+                              "verified": false,
+                              "verified_type": "Government",
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-481222224",
+                    "sortIndex": "1761452658566100473",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0ODEyMjIyMjQ=",
+                            "rest_id": "481222224",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu Feb 02 13:20:22 +0000 2012",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Former Minister of State, Higher and Technical Education, Women and Child Welfare (Independent Charge), Government of Gujarat ; MLA from Jamnagar (South)",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 5250,
+                              "followers_count": 20819,
+                              "friends_count": 242,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 45,
+                              "location": "Gandhinagar",
+                              "media_count": 399,
+                              "name": "Vasuben Trivedi",
+                              "normal_followers_count": 20819,
+                              "pinned_tweet_ids_str": [
+                                "1414488298169401355"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/601690692927131648/3jNEBFUL_normal.png",
+                              "profile_interstitial_type": "",
+                              "screen_name": "VasubenTrivedi",
+                              "statuses_count": 6509,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-18304860",
+                    "sortIndex": "1761452658566100472",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {},
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-24059402",
+                    "sortIndex": "1761452658566100471",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyNDA1OTQwMg==",
+                            "rest_id": "24059402",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": true,
+                              "can_media_tag": false,
+                              "created_at": "Thu Mar 12 22:52:39 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Dad, Indian, Gujarati | Author - The Smriti Irani Story: Why She Won Amethi (available on Amazon) | U.S. immigration lawyer | IG - @kartikeyatanna",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "twitter.com/kartikeyatanna",
+                                      "expanded_url": "https://www.twitter.com/kartikeyatanna",
+                                      "url": "https://t.co/B8JD7Di4yF",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 20435,
+                              "followers_count": 42343,
+                              "friends_count": 1553,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 231,
+                              "location": "Ahmedabad/Miami",
+                              "media_count": 2993,
+                              "name": "Kartikeya Tanna",
+                              "normal_followers_count": 42343,
+                              "pinned_tweet_ids_str": [
+                                "1508850384001200129"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/24059402/1648575203",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1692353790723104769/ZHkCTxTZ_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "KartikeyaTanna",
+                              "statuses_count": 49348,
+                              "translator_type": "none",
+                              "url": "https://t.co/B8JD7Di4yF",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-378056166",
+                    "sortIndex": "1761452658566100470",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjozNzgwNTYxNjY=",
+                            "rest_id": "378056166",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu Sep 22 15:27:49 +0000 2011",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Governor of Uttar Pradesh , Former Chief Minister of Gujarat",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "upgovernor.gov.in",
+                                      "expanded_url": "http://www.upgovernor.gov.in",
+                                      "url": "https://t.co/PzOW7g0KhC",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 245,
+                              "followers_count": 682629,
+                              "friends_count": 135,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 439,
+                              "location": "Lucknow",
+                              "media_count": 1516,
+                              "name": "Anandiben Patel",
+                              "normal_followers_count": 682629,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/378056166/1707998692",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329857921170063363/w-3OzECm_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "anandibenpatel",
+                              "statuses_count": 6218,
+                              "translator_type": "regular",
+                              "url": "https://t.co/PzOW7g0KhC",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-122263846",
+                    "sortIndex": "1761452658566100469",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMjIyNjM4NDY=",
+                            "rest_id": "122263846",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Fri Mar 12 04:09:28 +0000 2010",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Proud to be followed by Hon'ble Prime Minister of India Shri .@narendramodi ji.. Tweets are personal, RTs not endorsement ।।जय श्री राम।। ।।हर हर महादेव।।",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1139,
+                              "followers_count": 31295,
+                              "friends_count": 1199,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 269,
+                              "location": "भारत",
+                              "media_count": 55129,
+                              "name": "BairiSugreev",
+                              "normal_followers_count": 31295,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/122263846/1562994796",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1749434344408530944/ype77ph7_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "manojsirsa",
+                              "statuses_count": 565790,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-194036599",
+                    "sortIndex": "1761452658566100468",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxOTQwMzY1OTk=",
+                            "rest_id": "194036599",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu Sep 23 08:18:15 +0000 2010",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "SwayamSewak , Shri Harivansh ~ Modified ~ PM  @narendramodi follows me since 2012 (Purana BHAKT 🙂)   ~~ जो मन से मस्त है उसके पास समस्त है , Proud BHARTIYA",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 17491,
+                              "followers_count": 10607,
+                              "friends_count": 583,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 81,
+                              "location": "",
+                              "media_count": 3503,
+                              "name": "Pankaj Mani Tripathi",
+                              "normal_followers_count": 10607,
+                              "pinned_tweet_ids_str": [
+                                "193684627339218945"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/194036599/1648175516",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1700052565130608640/3EqL_Rjn_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "impankajmani",
+                              "statuses_count": 88698,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-98829676",
+                    "sortIndex": "1761452658566100467",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo5ODgyOTY3Ng==",
+                            "rest_id": "98829676",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": true,
+                              "can_media_tag": false,
+                              "created_at": "Wed Dec 23 08:01:22 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Curiosity is my only talent.                                                    Business, Sports, Travel | #Trivia hunter",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 350,
+                              "followers_count": 21469,
+                              "friends_count": 540,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 109,
+                              "location": "",
+                              "media_count": 2238,
+                              "name": "Chinmay",
+                              "normal_followers_count": 21469,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/98829676/1545486393",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1076478044036972544/aN_lIf8b_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "Chinmaestro",
+                              "statuses_count": 19621,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-477869359",
+                    "sortIndex": "1761452658566100466",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0Nzc4NjkzNTk=",
+                            "rest_id": "477869359",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Sun Jan 29 17:13:45 +0000 2012",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Former Member of Parliament Lok Sabha (Mehsana)(2009-2019), Former Vice President, Gujarat State BJP.(2013-2021), Former President, Guj.State BJP Mahila Morcha",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "facebook.com/Jkpatelbjp/",
+                                      "expanded_url": "https://www.facebook.com/Jkpatelbjp/",
+                                      "url": "https://t.co/x49W8NSzuF",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 76213,
+                              "followers_count": 29244,
+                              "friends_count": 592,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 65,
+                              "location": "Mahesana, India",
+                              "media_count": 11389,
+                              "name": "Jayshreeben Patel",
+                              "normal_followers_count": 29244,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/477869359/1707215368",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1760318725574492160/phE8ZBuS_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "JKPatelGujarat",
+                              "statuses_count": 24693,
+                              "translator_type": "none",
+                              "url": "https://t.co/x49W8NSzuF",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-49877768",
+                    "sortIndex": "1761452658566100465",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0OTg3Nzc2OA==",
+                            "rest_id": "49877768",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Tue Jun 23 03:57:35 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Credo: Fix Media and Fake RWers, to Fix India| #ILoveBengaluru| 𝗛𝗮𝗽𝗽𝘆 𝗳𝗼𝗿 𝗡𝗼 𝗥𝗲𝗮𝘀𝗼𝗻 😊|",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "yensures.com/about//",
+                                      "expanded_url": "https://yensures.com/about//",
+                                      "url": "https://t.co/t1VwK99ArH",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 2612,
+                              "followers_count": 69288,
+                              "friends_count": 2509,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 293,
+                              "location": "Bharat",
+                              "media_count": 35268,
+                              "name": "Suresh",
+                              "normal_followers_count": 69288,
+                              "pinned_tweet_ids_str": [
+                                "377104290298339329"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/49877768/1671181672",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1744878933387202560/X23GBVWz_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "surnell",
+                              "statuses_count": 317281,
+                              "translator_type": "none",
+                              "url": "https://t.co/t1VwK99ArH",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-431469382",
+                    "sortIndex": "1761452658566100464",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0MzE0NjkzODI=",
+                            "rest_id": "431469382",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu Dec 08 09:30:48 +0000 2011",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "BJP Karyakarta",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "pradipsinhvaghela.in",
+                                      "expanded_url": "http://pradipsinhvaghela.in/",
+                                      "url": "https://t.co/fWLwU0wsD0",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 26680,
+                              "followers_count": 436946,
+                              "friends_count": 2960,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 292,
+                              "location": "Ahmedabad",
+                              "media_count": 10153,
+                              "name": "Pradipsinh Vaghela",
+                              "normal_followers_count": 436946,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/431469382/1568884319",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1747886707482177536/QFTCPe1N_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "pradipsinhbjp",
+                              "statuses_count": 31214,
+                              "translator_type": "none",
+                              "url": "https://t.co/fWLwU0wsD0",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-478322676",
+                    "sortIndex": "1761452658566100463",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0NzgzMjI2NzY=",
+                            "rest_id": "478322676",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Mon Jan 30 04:44:45 +0000 2012",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Vice President BJP Gujarat State, Ex.M.L.A.-Wadhwan Constituency, Surendranagar(Gujarat)(2007-2017), Prabhari - Mehsana Dist.,Best National awardee teacher-2004",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 28407,
+                              "followers_count": 76976,
+                              "friends_count": 1970,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 87,
+                              "location": "Surendranagar (Gujarat)",
+                              "media_count": 9387,
+                              "name": "𝑽𝒂𝒓𝒔𝒉𝒂 𝑫𝒐𝒔𝒉𝒊🇮🇳",
+                              "normal_followers_count": 76976,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/478322676/1631548220",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1694983654739759104/cs6vFw3M_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "VarshabenDoshi",
+                              "statuses_count": 31591,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-478494488",
+                    "sortIndex": "1761452658566100462",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0Nzg0OTQ0ODg=",
+                            "rest_id": "478494488",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Mon Jan 30 10:30:54 +0000 2012",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Minister, Tribal Devlopment , Forest and Environment,Govt.Of Gujarat, India.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 0,
+                              "followers_count": 3462,
+                              "friends_count": 13,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 21,
+                              "location": "Gandhinagar -Gujarat",
+                              "media_count": 7,
+                              "name": "Mangubhai Patel",
+                              "normal_followers_count": 3462,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1802808009/000001_copy__00_1_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "mangubhaipatel1",
+                              "statuses_count": 17,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-85101713",
+                    "sortIndex": "1761452658566100461",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo4NTEwMTcxMw==",
+                            "rest_id": "85101713",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": true,
+                              "can_media_tag": true,
+                              "created_at": "Sun Oct 25 15:27:58 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Senate+Syndicate Member-MSU Baroda. Former RD, ICCR, MEA, GOI. Ex.G.Sec,Gujarat YouthBJP. Honoured to be followed by PM Narendrabhai Modi",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "t.me/jigarinamdar",
+                                      "expanded_url": "https://t.me/jigarinamdar",
+                                      "url": "https://t.co/3M3Kk5QbAH",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 14039,
+                              "followers_count": 15725,
+                              "friends_count": 1741,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 60,
+                              "location": "Vododara, India",
+                              "media_count": 2993,
+                              "name": "Dr Jigar Inamdar",
+                              "normal_followers_count": 15725,
+                              "pinned_tweet_ids_str": [
+                                "1302647835049914369"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/85101713/1489412773",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1748751163930144768/z3bH0030_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "jigar_inamdar",
+                              "statuses_count": 30286,
+                              "translator_type": "none",
+                              "url": "https://t.co/3M3Kk5QbAH",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-469012778",
+                    "sortIndex": "1761452658566100460",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0NjkwMTI3Nzg=",
+                            "rest_id": "469012778",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Fri Jan 20 04:19:06 +0000 2012",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Administrator - Union Territory (Dadra-Nagar Haveli | Daman-Diu & Lakshadweep) , Former Home minister - Govt. of Gujarat.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "prafulpatel.in",
+                                      "expanded_url": "http://prafulpatel.in/",
+                                      "url": "https://t.co/XufGDHcIeq",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1207,
+                              "followers_count": 44074,
+                              "friends_count": 233,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 46,
+                              "location": "Daman, India",
+                              "media_count": 2074,
+                              "name": "Praful K Patel",
+                              "normal_followers_count": 44074,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/469012778/1603099969",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1564165317906944001/_yykV7g0_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "prafulkpatel",
+                              "statuses_count": 3294,
+                              "translator_type": "none",
+                              "url": "https://t.co/XufGDHcIeq",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-432333210",
+                    "sortIndex": "1761452658566100459",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0MzIzMzMyMTA=",
+                            "rest_id": "432333210",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Fri Dec 09 08:52:37 +0000 2011",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Official Twitter Account of BJP Tapi Jilla.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "bjpgujarat.org",
+                                      "expanded_url": "https://bjpgujarat.org/",
+                                      "url": "https://t.co/kgTKrKTrBv",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 464,
+                              "followers_count": 3137,
+                              "friends_count": 454,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 16,
+                              "location": "Tapi, Gujarat.",
+                              "media_count": 86,
+                              "name": "BJP Tapi 🇮🇳",
+                              "normal_followers_count": 3137,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/432333210/1669190794",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296414471590576130/EZcHw9y9_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "BJP4TapiJilla",
+                              "statuses_count": 812,
+                              "translator_type": "none",
+                              "url": "https://t.co/kgTKrKTrBv",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-435582977",
+                    "sortIndex": "1761452658566100458",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0MzU1ODI5Nzc=",
+                            "rest_id": "435582977",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Tue Dec 13 06:41:09 +0000 2011",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 0,
+                              "followers_count": 4722,
+                              "friends_count": 13,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 12,
+                              "location": "",
+                              "media_count": 2,
+                              "name": "bjpitcell_anand",
+                              "normal_followers_count": 4722,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1690515940/bjp-party-logo_normal.gif",
+                              "profile_interstitial_type": "",
+                              "screen_name": "bjpitcell_anand",
+                              "statuses_count": 1112,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-432345196",
+                    "sortIndex": "1761452658566100457",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0MzIzNDUxOTY=",
+                            "rest_id": "432345196",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Fri Dec 09 09:12:55 +0000 2011",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 0,
+                              "followers_count": 1153,
+                              "friends_count": 8,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 10,
+                              "location": "Himatnagar",
+                              "media_count": 0,
+                              "name": "bjpitcell_sabarkanth",
+                              "normal_followers_count": 1153,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1701801532/3_normal_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "itcell_sk",
+                              "statuses_count": 2,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-371887340",
+                    "sortIndex": "1761452658566100456",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjozNzE4ODczNDA=",
+                            "rest_id": "371887340",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": true,
+                              "can_media_tag": true,
+                              "created_at": "Sun Sep 11 18:14:03 +0000 2011",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Official X Handle of BJP Karnavati Mahanagar( BJP Ahmedabad City)\n\nFollowed By Hon PM Shri @narendramodi Ji.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "bjpkarnavati.org",
+                                      "expanded_url": "http://www.bjpkarnavati.org",
+                                      "url": "https://t.co/HOJSHtp1mb",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 9457,
+                              "followers_count": 99652,
+                              "friends_count": 206,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 92,
+                              "location": "Ahmedabad",
+                              "media_count": 20704,
+                              "name": "BJP Karnavati Mahanagar",
+                              "normal_followers_count": 99652,
+                              "pinned_tweet_ids_str": [
+                                "1462762167187300372"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/371887340/1648385446",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1713815482925817856/JNS3aaSp_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "BJP4Karnavati",
+                              "statuses_count": 57198,
+                              "translator_type": "none",
+                              "url": "https://t.co/HOJSHtp1mb",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-434909873",
+                    "sortIndex": "1761452658566100455",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0MzQ5MDk4NzM=",
+                            "rest_id": "434909873",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Mon Dec 12 13:20:03 +0000 2011",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 0,
+                              "followers_count": 6991,
+                              "friends_count": 6,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 15,
+                              "location": "",
+                              "media_count": 8,
+                              "name": "bjpitcell_rajkotdist",
+                              "normal_followers_count": 6991,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1688941164/3_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "bjpitcellrajkot",
+                              "statuses_count": 745,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-83805213",
+                    "sortIndex": "1761452658566100454",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo4MzgwNTIxMw==",
+                            "rest_id": "83805213",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Tue Oct 20 09:10:41 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Biggest Fan Page (of anyone) in the world with 16 million likes (ISN). \nDevoted to our PM Narendra Modi ji.\nTwitter\nManaged by @MODIfiedVikas, @Kumar_VinodR",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "fb.com/iSupportNamo",
+                                      "expanded_url": "http://fb.com/iSupportNamo",
+                                      "url": "https://t.co/zBlXflDQeg",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 984,
+                              "followers_count": 139644,
+                              "friends_count": 319,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 203,
+                              "location": "India",
+                              "media_count": 4152,
+                              "name": "I Support Narendra Modi",
+                              "normal_followers_count": 139644,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/83805213/1522472620",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333464216938762240/65y8GpTA_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "iSupportNamo",
+                              "statuses_count": 24306,
+                              "translator_type": "none",
+                              "url": "https://t.co/zBlXflDQeg",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-58243368",
+                    "sortIndex": "1761452658566100453",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo1ODI0MzM2OA==",
+                            "rest_id": "58243368",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Sun Jul 19 17:21:03 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Minister of Finance and Corporate Affairs. MP (RS) representing Karnataka, views personal, RTs no endorsement.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 741,
+                              "followers_count": 5492642,
+                              "friends_count": 741,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 3621,
+                              "location": "Delhi, India",
+                              "media_count": 1371,
+                              "name": "Nirmala Sitharaman",
+                              "normal_followers_count": 5492642,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/58243368/1700676561",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1727617255649968128/w2BK6flc_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "nsitharaman",
+                              "statuses_count": 25343,
+                              "translator_type": "none",
+                              "verified": false,
+                              "verified_type": "Government",
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-289798661",
+                    "sortIndex": "1761452658566100452",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyODk3OTg2NjE=",
+                            "rest_id": "289798661",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Fri Apr 29 07:07:55 +0000 2011",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Official Twitter handle of Directorate of Information (માહિતી નિયામકની કચેરી), Government of Gujarat https://t.co/jWcV6hPN0l",
+                              "entities": {
+                                "description": {
+                                  "urls": [
+                                    {
+                                      "display_url": "t.me/officialinfogu…",
+                                      "expanded_url": "https://t.me/officialinfogujarat",
+                                      "url": "https://t.co/jWcV6hPN0l",
+                                      "indices": [
+                                        101,
+                                        124
+                                      ]
+                                    }
+                                  ]
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "gujaratinformation.gujarat.gov.in",
+                                      "expanded_url": "http://www.gujaratinformation.gujarat.gov.in",
+                                      "url": "https://t.co/Rvk4IWs0IE",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 31831,
+                              "followers_count": 545314,
+                              "friends_count": 306,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 374,
+                              "location": "Gandhinagar, India",
+                              "media_count": 19984,
+                              "name": "Gujarat Information",
+                              "normal_followers_count": 545314,
+                              "pinned_tweet_ids_str": [
+                                "1761265424984092798"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/289798661/1693466421",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1746811842918584320/AEHHDbvp_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "InfoGujarat",
+                              "statuses_count": 77348,
+                              "translator_type": "none",
+                              "url": "https://t.co/Rvk4IWs0IE",
+                              "verified": false,
+                              "verified_type": "Government",
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-23288459",
+                    "sortIndex": "1761452658566100451",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyMzI4ODQ1OQ==",
+                            "rest_id": "23288459",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Sun Mar 08 07:51:28 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Twitter Account of Official Gujarat State Portal \r\n‘Apnu Gujarat – Agavu Gujarat’ (Our Gujarat, Unique Gujarat)\r\nWhere 'Life is a Celebration'",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "gujaratindia.com/index.htm",
+                                      "expanded_url": "http://www.gujaratindia.com/index.htm",
+                                      "url": "http://t.co/da7FZtOf2k",
+                                      "indices": [
+                                        0,
+                                        22
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 0,
+                              "followers_count": 3623,
+                              "friends_count": 6,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 21,
+                              "location": "(Gujarat, India)",
+                              "media_count": 4,
+                              "name": "Gujarat State Portal",
+                              "normal_followers_count": 3623,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1511345785/guj_portal_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "GujaratIndia",
+                              "statuses_count": 999,
+                              "translator_type": "none",
+                              "url": "http://t.co/da7FZtOf2k",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-385909720",
+                    "sortIndex": "1761452658566100450",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjozODU5MDk3MjA=",
+                            "rest_id": "385909720",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu Oct 06 10:40:27 +0000 2011",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Official Twitter account of Bharatiya Janata Party (BJP) Gujarat Pradesh",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "bjpgujarat.org",
+                                      "expanded_url": "https://bjpgujarat.org/",
+                                      "url": "https://t.co/FPvrpYOKiH",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 2858,
+                              "followers_count": 1665871,
+                              "friends_count": 156,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 879,
+                              "location": "Gandhinagar,Gujarat",
+                              "media_count": 37095,
+                              "name": "BJP Gujarat",
+                              "normal_followers_count": 1665871,
+                              "pinned_tweet_ids_str": [
+                                "1757803965721268708"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/385909720/1699264335",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1700105662200741888/KE8SySIE_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "BJP4Gujarat",
+                              "statuses_count": 75741,
+                              "translator_type": "none",
+                              "url": "https://t.co/FPvrpYOKiH",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-69570247",
+                    "sortIndex": "1761452658566100449",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo2OTU3MDI0Nw==",
+                            "rest_id": "69570247",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Fri Aug 28 12:00:19 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Official Twitter Account of Gujarat Tourism.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "gujarattourism.com",
+                                      "expanded_url": "http://www.gujarattourism.com",
+                                      "url": "https://t.co/TqlfEauKcw",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1899,
+                              "followers_count": 1799157,
+                              "friends_count": 95,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 398,
+                              "location": "Gujarat",
+                              "media_count": 4365,
+                              "name": "Gujarat Tourism",
+                              "normal_followers_count": 1799157,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/69570247/1706189103",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/926767400686456833/HyDYN5Tj_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "GujaratTourism",
+                              "statuses_count": 7365,
+                              "translator_type": "none",
+                              "url": "https://t.co/TqlfEauKcw",
+                              "verified": false,
+                              "verified_type": "Government",
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-57953364",
+                    "sortIndex": "1761452658566100448",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo1Nzk1MzM2NA==",
+                            "rest_id": "57953364",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": true,
+                              "can_media_tag": false,
+                              "created_at": "Sat Jul 18 15:14:56 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "PhD from LSE, Political Economist, Policy Consultant, Managing Director, RightFOLIO, Chess Player and Music Lover.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "parakala.org",
+                                      "expanded_url": "http://parakala.org",
+                                      "url": "https://t.co/wcrmODVf0Y",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 13922,
+                              "followers_count": 32022,
+                              "friends_count": 536,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 116,
+                              "location": "Hyderabad, India",
+                              "media_count": 1320,
+                              "name": "Parakala Prabhakar",
+                              "normal_followers_count": 32022,
+                              "pinned_tweet_ids_str": [
+                                "1652282347503628290"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/57953364/1682772841",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/687934141829115906/75GVfB8r_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "parakala",
+                              "statuses_count": 8839,
+                              "translator_type": "none",
+                              "url": "https://t.co/wcrmODVf0Y",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "professional": {
+                              "rest_id": "1584590258489815040",
+                              "professional_type": "Business",
+                              "category": [
+                                {
+                                  "id": 920,
+                                  "name": "Other",
+                                  "icon_name": "IconBriefcaseStroke"
+                                }
+                              ]
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-13659012",
+                    "sortIndex": "1761452658566100447",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMzY1OTAxMg==",
+                            "rest_id": "13659012",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Tue Feb 19 05:32:01 +0000 2008",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Branding Consultant, Political Analyst, Columnist, Writer",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 33608,
+                              "followers_count": 2879,
+                              "friends_count": 732,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 31,
+                              "location": "कर्णावती, भारत",
+                              "media_count": 1133,
+                              "name": "संजय बेंगाणी 🇮🇳",
+                              "normal_followers_count": 2879,
+                              "pinned_tweet_ids_str": [
+                                "1686325663626584064"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/13659012/1493186271",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1717789213528031232/U53UBYiq_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "sanjaybengani",
+                              "statuses_count": 19549,
+                              "translator_type": "regular",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "professional": {
+                              "rest_id": "1492193636603334665",
+                              "professional_type": "Creator",
+                              "category": [
+                                {
+                                  "id": 934,
+                                  "name": "Social Media Influencer",
+                                  "icon_name": "IconBriefcaseStroke"
+                                }
+                              ]
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-99226083",
+                    "sortIndex": "1761452658566100446",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo5OTIyNjA4Mw==",
+                            "rest_id": "99226083",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Fri Dec 25 05:31:18 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Curious, Techie. Citizen of Bharat, love humor, music from 90s, and err...Bourbon biscuits.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 2607,
+                              "followers_count": 1324,
+                              "friends_count": 344,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 42,
+                              "location": "",
+                              "media_count": 489,
+                              "name": "Amit",
+                              "normal_followers_count": 1324,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/99226083/1370892172",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1606336654095970304/nYcey2yr_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "amsrjn",
+                              "statuses_count": 34066,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-21241905",
+                    "sortIndex": "1761452658566100445",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyMTI0MTkwNQ==",
+                            "rest_id": "21241905",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": true,
+                              "can_media_tag": false,
+                              "created_at": "Wed Feb 18 21:18:09 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Ye shall know me by my tweets.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 3742,
+                              "followers_count": 6286,
+                              "friends_count": 35,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 112,
+                              "location": "",
+                              "media_count": 2358,
+                              "name": "dubash",
+                              "normal_followers_count": 6286,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/398343160/dubash_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "dubash",
+                              "statuses_count": 107330,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-17039573",
+                    "sortIndex": "1761452658566100444",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxNzAzOTU3Mw==",
+                            "rest_id": "17039573",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed Oct 29 11:45:54 +0000 2008",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "3x digital entrepreneur / CEO @sahamati #DPI #DigitalPublicInfrastructure #AccountAggregator #OpenFinance / Founder & ex-MD @oneindia #Indic",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "mahesh.com",
+                                      "expanded_url": "https://www.mahesh.com",
+                                      "url": "https://t.co/S5yHPFeHC3",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 3974,
+                              "followers_count": 18356,
+                              "friends_count": 1160,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 373,
+                              "location": "Bengaluru",
+                              "media_count": 3164,
+                              "name": "BG Mahesh",
+                              "normal_followers_count": 18356,
+                              "pinned_tweet_ids_str": [
+                                "1100925026281377804"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/17039573/1540976221",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1559349833038966784/OGQwRLe1_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "bgmahesh",
+                              "statuses_count": 45980,
+                              "translator_type": "none",
+                              "url": "https://t.co/S5yHPFeHC3",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "professional": {
+                              "rest_id": "1558999576870154240",
+                              "professional_type": "Creator",
+                              "category": [
+                                {
+                                  "id": 958,
+                                  "name": "Entrepreneur",
+                                  "icon_name": "IconBriefcaseStroke"
+                                }
+                              ]
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-433279998",
+                    "sortIndex": "1761452658566100443",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0MzMyNzk5OTg=",
+                            "rest_id": "433279998",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Sat Dec 10 11:05:13 +0000 2011",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "The official Twitter Fan Page of Shri Arjun Munda, the honorable Chief Minister of Jharkhand.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "arjunmunda.com",
+                                      "expanded_url": "http://www.arjunmunda.com",
+                                      "url": "http://t.co/MuyTozDBEV",
+                                      "indices": [
+                                        0,
+                                        22
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 0,
+                              "followers_count": 1551,
+                              "friends_count": 0,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 22,
+                              "location": "",
+                              "media_count": 0,
+                              "name": "aapkaCM",
+                              "normal_followers_count": 1551,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1684826066/Arjun_Munda_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "aapkaCM",
+                              "statuses_count": 0,
+                              "translator_type": "none",
+                              "url": "http://t.co/MuyTozDBEV",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-224119031",
+                    "sortIndex": "1761452658566100442",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyMjQxMTkwMzE=",
+                            "rest_id": "224119031",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed Dec 08 05:33:39 +0000 2010",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Biennial Investors' Summit aimed at bringing together Global Business & Thought Leaders,Policy makers; to understand & explore Business Opportunities in Gujarat",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "vibrantgujarat.com",
+                                      "expanded_url": "http://vibrantgujarat.com/",
+                                      "url": "https://t.co/5u5v0BaIP2",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1958,
+                              "followers_count": 126054,
+                              "friends_count": 496,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 149,
+                              "location": "Gandhinagar",
+                              "media_count": 3446,
+                              "name": "Vibrant Gujarat",
+                              "normal_followers_count": 126054,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/224119031/1703075789",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1742041410562674688/oE18NUaA_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "VibrantGujarat",
+                              "statuses_count": 8941,
+                              "translator_type": "none",
+                              "url": "https://t.co/5u5v0BaIP2",
+                              "verified": false,
+                              "verified_type": "Government",
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "professional": {
+                              "rest_id": "1468103742901743616",
+                              "professional_type": "Business",
+                              "category": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-165506153",
+                    "sortIndex": "1761452658566100441",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxNjU1MDYxNTM=",
+                            "rest_id": "165506153",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Sun Jul 11 19:33:08 +0000 2010",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "DigitalEconomy,Policy,VC. Xaviers/IIT-BHU/UIUC. @EF_Fellows #ONDC #Author #AdjunctProf. Founder Member-iSPiRT @DIFIndia. Past: National Head-BJP IT/SM,CEO-myGov",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "Ispirt.in",
+                                      "expanded_url": "http://Ispirt.in",
+                                      "url": "https://t.co/N0x5x8C6kB",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 12601,
+                              "followers_count": 150332,
+                              "friends_count": 379,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 541,
+                              "location": "New Delhi",
+                              "media_count": 1715,
+                              "name": "Arvind Gupta",
+                              "normal_followers_count": 150332,
+                              "pinned_tweet_ids_str": [
+                                "1125577265365098496"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/165506153/1430470523",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1560002147907174400/MnT9wVDr_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "buzzindelhi",
+                              "statuses_count": 40472,
+                              "translator_type": "none",
+                              "url": "https://t.co/N0x5x8C6kB",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "professional": {
+                              "rest_id": "1464835633667530758",
+                              "professional_type": "Creator",
+                              "category": [
+                                {
+                                  "id": 688,
+                                  "name": "Non-Governmental & Nonprofit Organization ",
+                                  "icon_name": "IconBriefcaseStroke"
+                                }
+                              ]
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-238568212",
+                    "sortIndex": "1761452658566100440",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyMzg1NjgyMTI=",
+                            "rest_id": "238568212",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Sat Jan 15 13:41:11 +0000 2011",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "HR-Profi, Psychologist & German Expert, likes western classical music and reading books on Philosophy & Literature.  🇮🇳  義 Friend of 🇮🇱.  Views are MY own.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 526,
+                              "followers_count": 31580,
+                              "friends_count": 171,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 196,
+                              "location": "India",
+                              "media_count": 1678,
+                              "name": "R.S. Bains ⚔️🧵",
+                              "normal_followers_count": 31580,
+                              "pinned_tweet_ids_str": [
+                                "1245813418029920265"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/238568212/1408789651",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1724829002098147328/SwwZ2dAv_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "HerrBains",
+                              "statuses_count": 98448,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-14905139",
+                    "sortIndex": "1761452658566100439",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxNDkwNTEzOQ==",
+                            "rest_id": "14905139",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": true,
+                              "can_media_tag": false,
+                              "created_at": "Mon May 26 04:25:03 +0000 2008",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Architect. Visual Design.\nOnly ideology I follow is public interest.\nF1, Tech, Design, sports & TV shows keep me going. Swithched Off social media for peace ✌️",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 28754,
+                              "followers_count": 119310,
+                              "friends_count": 1572,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 326,
+                              "location": "New Delhi, India",
+                              "media_count": 4108,
+                              "name": "shilpi tewari",
+                              "normal_followers_count": 119310,
+                              "pinned_tweet_ids_str": [
+                                "1619763611047714817"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/14905139/1548951260",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1528733685305966592/8AWbG-Sh_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "shilpitewari",
+                              "statuses_count": 185390,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "cursor-bottom-1761452658566100438",
+                    "sortIndex": "1761452658566100438",
+                    "content": {
+                      "entryType": "TimelineTimelineCursor",
+                      "__typename": "TimelineTimelineCursor",
+                      "value": "1390405398454704462|1761452658566100436",
+                      "cursorType": "Bottom"
+                    }
+                  },
+                  {
+                    "entryId": "cursor-top-1761452658566100489",
+                    "sortIndex": "1761452658566100489",
+                    "content": {
+                      "entryType": "TimelineTimelineCursor",
+                      "__typename": "TimelineTimelineCursor",
+                      "value": "-1|1761452658566100489",
+                      "cursorType": "Top"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "ID": 18839785
+}

@@ -1,0 +1,510 @@
+{
+  "data": {
+    "user": {
+      "result": {
+        "__typename": "User",
+        "timeline": {
+          "timeline": {
+            "instructions": [
+              {
+                "type": "TimelineAddEntries",
+                "entries": [
+                  {
+                    "entryId": "user-13508182",
+                    "sortIndex": "1761452658566100284",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMzUwODE4Mg==",
+                            "rest_id": "13508182",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": true,
+                              "can_media_tag": false,
+                              "created_at": "Fri Feb 15 08:28:58 +0000 2008",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "So live your life that the fear of death can never enter your heart.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 22973,
+                              "followers_count": 146060,
+                              "friends_count": 2049,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 472,
+                              "location": "Dehradun, New Delhi India",
+                              "media_count": 4901,
+                              "name": "Tarun Vijay",
+                              "normal_followers_count": 146060,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/13508182/1705930905",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1724043438323314688/hS9c-WZf_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "Tarunvijay",
+                              "statuses_count": 50544,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "professional": {
+                              "rest_id": "1599325066990583808",
+                              "professional_type": "Business",
+                              "category": [
+                                {
+                                  "id": 955,
+                                  "name": "Journalist",
+                                  "icon_name": "IconBriefcaseStroke"
+                                }
+                              ]
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-373280952",
+                    "sortIndex": "1761452658566100283",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjozNzMyODA5NTI=",
+                            "rest_id": "373280952",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed Sep 14 09:24:55 +0000 2011",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "छत्तीसगढ़ महतारी का सेवक। विधायक, राजनांदगांव। विधानसभा अध्यक्ष, छत्तीसगढ़",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "drramansingh.in",
+                                      "expanded_url": "http://drramansingh.in",
+                                      "url": "https://t.co/ZpVs4TxsfY",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 2051,
+                              "followers_count": 2382931,
+                              "friends_count": 143,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 857,
+                              "location": "Chhattisgarh India",
+                              "media_count": 7328,
+                              "name": "Dr Raman Singh",
+                              "normal_followers_count": 2382931,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/373280952/1703064728",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1700773921111539712/rP5hQb4u_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "drramansingh",
+                              "statuses_count": 17746,
+                              "translator_type": "none",
+                              "url": "https://t.co/ZpVs4TxsfY",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-219617448",
+                    "sortIndex": "1761452658566100282",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyMTk2MTc0NDg=",
+                            "rest_id": "219617448",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Thu Nov 25 11:10:09 +0000 2010",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "This is a monument in the memory of Mrs. Sushma Swaraj.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 10,
+                              "followers_count": 12627271,
+                              "friends_count": 0,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 5286,
+                              "location": "New Delhi, India",
+                              "media_count": 351,
+                              "name": "Sushma Swaraj",
+                              "normal_followers_count": 12627271,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/959220898417950720/Ij9WNV0g_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "SushmaSwaraj",
+                              "statuses_count": 6366,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-43384673",
+                    "sortIndex": "1761452658566100281",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0MzM4NDY3Mw==",
+                            "rest_id": "43384673",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": true,
+                              "can_media_tag": true,
+                              "created_at": "Fri May 29 18:52:44 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Gujarat is something we are passionate about: Twitter handle of digital news portal https://t.co/Wsn5g1848e  since 2006",
+                              "entities": {
+                                "description": {
+                                  "urls": [
+                                    {
+                                      "display_url": "DeshGujarat.Com",
+                                      "expanded_url": "http://DeshGujarat.Com",
+                                      "url": "https://t.co/Wsn5g1848e",
+                                      "indices": [
+                                        84,
+                                        107
+                                      ]
+                                    }
+                                  ]
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "DeshGujarat.Com",
+                                      "expanded_url": "http://DeshGujarat.Com",
+                                      "url": "https://t.co/Wsn5g1848e",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 2962,
+                              "followers_count": 472294,
+                              "friends_count": 144,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 388,
+                              "location": "Gujarat, India",
+                              "media_count": 26276,
+                              "name": "DeshGujarat",
+                              "normal_followers_count": 472294,
+                              "pinned_tweet_ids_str": [
+                                "1724134356208488835"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/43384673/1492688820",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1559463008765505536/6H42xyfZ_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "DeshGujarat",
+                              "statuses_count": 83224,
+                              "translator_type": "none",
+                              "url": "https://t.co/Wsn5g1848e",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "professional": {
+                              "rest_id": "1535202670725586945",
+                              "professional_type": "Business",
+                              "category": [
+                                {
+                                  "id": 579,
+                                  "name": "Media & News",
+                                  "icon_name": "IconBriefcaseStroke"
+                                }
+                              ]
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-373975130",
+                    "sortIndex": "1761452658566100280",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjozNzM5NzUxMzA=",
+                            "rest_id": "373975130",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu Sep 15 14:00:42 +0000 2011",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Official Twitter Account of Sadbhavana Mission - launched by CM Narendra Modi to strengthen peace, unity & harmony in Gujarat. Follow to get real-time updates.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "narendramodi.in/sadbhavana",
+                                      "expanded_url": "http://www.narendramodi.in/sadbhavana",
+                                      "url": "http://t.co/F5HWos1H21",
+                                      "indices": [
+                                        0,
+                                        22
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 0,
+                              "followers_count": 3110,
+                              "friends_count": 1,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 30,
+                              "location": "Gujarat",
+                              "media_count": 89,
+                              "name": "Sadbhavana Mission",
+                              "normal_followers_count": 3110,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1544488299/1_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "sadbhavana_guj",
+                              "statuses_count": 1119,
+                              "translator_type": "none",
+                              "url": "http://t.co/F5HWos1H21",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-296612629",
+                    "sortIndex": "1761452658566100279",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyOTY2MTI2Mjk=",
+                            "rest_id": "296612629",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed May 11 03:03:47 +0000 2011",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Twitter account of https://t.co/zzYhUTXOHI – Shri Narendra Modi's personal website & the Narendra Modi Mobile App.",
+                              "entities": {
+                                "description": {
+                                  "urls": [
+                                    {
+                                      "display_url": "narendramodi.in",
+                                      "expanded_url": "http://www.narendramodi.in",
+                                      "url": "https://t.co/zzYhUTXOHI",
+                                      "indices": [
+                                        19,
+                                        42
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1,
+                              "followers_count": 2816432,
+                              "friends_count": 953,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 1659,
+                              "location": "",
+                              "media_count": 12681,
+                              "name": "narendramodi_in",
+                              "normal_followers_count": 2816432,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/296612629/1511764962",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/2548637061/5xk4yfopm3b80c9pdp9l_normal.jpeg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "narendramodi_in",
+                              "statuses_count": 47083,
+                              "translator_type": "none",
+                              "verified": false,
+                              "verified_type": "Government",
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "verified_phone_status": false,
+                            "business_account": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "cursor-bottom-1761452658566100278",
+                    "sortIndex": "1761452658566100278",
+                    "content": {
+                      "entryType": "TimelineTimelineCursor",
+                      "__typename": "TimelineTimelineCursor",
+                      "value": "0|1761452658566100276",
+                      "cursorType": "Bottom"
+                    }
+                  },
+                  {
+                    "entryId": "cursor-top-1761452658566100285",
+                    "sortIndex": "1761452658566100285",
+                    "content": {
+                      "entryType": "TimelineTimelineCursor",
+                      "__typename": "TimelineTimelineCursor",
+                      "value": "-1|1761452658566100285",
+                      "cursorType": "Top"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "ID": 18839785
+}

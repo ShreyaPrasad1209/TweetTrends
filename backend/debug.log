@@ -1,0 +1,422 @@
+2024-02-24 21:36:00,882.882 DEBUG: 0 minutes until rate-limit reset. limits = {}
+2024-02-24 21:36:00,883.883 DEBUG: [[32mSUCCESS[0m] 200 ([1mtweet[0m)  {'json': {'data': {'create_tweet': {'tweet_results': {'result': {'rest_id': '1761422232889569379', 'core': {'user_results': {'result': {'__typename': 'User', 'id': 'VXNlcjoxNzYxNDE5NjQ3MjU2MzQ2NjI0', 'rest_id': '1761419647256346624', 'affiliates_highlighted_label': {}, 'has_graduated_access': False, 'is_blue_verified': False, 'legacy': {'can_dm': True, 'can_media_tag': True, 'created_at': 'Sat Feb 24 15:55:55 +0000 2024', 'default_profile': True, 'default_profile_image': False, 'description': '', 'entities': {'description': {'urls': []}}, 'fast_followers_count': 0, 'favourites_count': 0, 'followers_count': 0, 'friends_count': 0, 'has_custom_timelines': False, 'is_translator': False, 'listed_count': 0, 'location': '', 'media_count': 0, 'name': 'blossom labs', 'needs_phone_verification': False, 'normal_followers_count': 0, 'pinned_tweet_ids_str': [], 'possibly_sensitive': False, 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1761419695994077184/NyLw2s1r_normal.png', 'profile_interstitial_type': '', 'screen_name': 'BlossomL67796', 'statuses_count': 1, 'translator_type': 'none', 'verified': False, 'want_retweets': False, 'withheld_in_countries': []}, 'business_account': {}}}}, 'unmention_data': {}, 'edit_control': {'edit_tweet_ids': ['1761422232889569379'], 'editable_until_msecs': '1708794360000', 'is_edit_eligible': True, 'edits_remaining': '5'}, 'is_translatable': False, 'views': {'state': 'Enabled'}, 'source': '<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>', 'legacy': {'created_at': 'Sat Feb 24 16:06:00 +0000 2024', 'conversation_id_str': '1761422232889569379', 'display_text_range': [0, 15], 'entities': {'user_mentions': [], 'urls': [], 'hashtags': [], 'symbols': []}, 'favorite_count': 0, 'favorited': False, 'full_text': 'Testing API 123', 'is_quote_status': False, 'lang': 'in', 'quote_count': 0, 'reply_count': 0, 'retweet_count': 0, 'retweeted': False, 'user_id_str': '1761419647256346624', 'id_str': '1761422232889569379'}, 'unmention_info': {}}}}}}}
+2024-02-24 21:46:33,429.429 DEBUG: processing: ('itsKanishkP', 'https://api.twitter.com/graphql/wjvx62Hye2dGVvnvVco0xA/Following?queryId="wjvx62Hye2dGVvnvVco0xA"&variables={"userId":"itsKanishkP","count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 21:46:33,448.448 DEBUG: processing: ('shreyacasmalert', 'https://api.twitter.com/graphql/wjvx62Hye2dGVvnvVco0xA/Following?queryId="wjvx62Hye2dGVvnvVco0xA"&variables={"userId":"shreyacasmalert","count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 21:46:34,205.205 DEBUG: limits = {'x-rate-limit-limit': '500', 'x-rate-limit-reset': '1708792223', 'x-rate-limit-remaining': '497'}
+2024-02-24 21:46:34,207.207 DEBUG: limits = {'x-rate-limit-limit': '500', 'x-rate-limit-reset': '1708792223', 'x-rate-limit-remaining': '498'}
+2024-02-24 21:46:34,855.855 DEBUG: [[31mERROR[0m]: {'errors': [{'message': 'NumericString value expected. Received shreyacasmalert', 'extensions': {'name': 'MalformedVariablesError', 'source': 'Client', 'code': 366, 'kind': 'Validation', 'tracing': {'trace_id': '3ba4ea910713f989'}}, 'code': 366, 'kind': 'Validation', 'name': 'MalformedVariablesError', 'source': 'Client', 'tracing': {'trace_id': '3ba4ea910713f989'}}]}
+2024-02-24 21:46:34,855.855 DEBUG: cursor = None
+2024-02-24 21:46:34,856.856 DEBUG: (shreyacasmalert)	0 unique results
+2024-02-24 21:46:34,856.856 DEBUG: [[32mSUCCESS[0m] done pagination	last cursor: None
+2024-02-24 21:46:34,871.871 DEBUG: [[31mERROR[0m]: {'errors': [{'message': 'NumericString value expected. Received itsKanishkP', 'extensions': {'name': 'MalformedVariablesError', 'source': 'Client', 'code': 366, 'kind': 'Validation', 'tracing': {'trace_id': '30f77c9792216fa5'}}, 'code': 366, 'kind': 'Validation', 'name': 'MalformedVariablesError', 'source': 'Client', 'tracing': {'trace_id': '30f77c9792216fa5'}}]}
+2024-02-24 21:46:34,871.871 DEBUG: cursor = None
+2024-02-24 21:46:34,871.871 DEBUG: (itsKanishkP)	0 unique results
+2024-02-24 21:46:34,871.871 DEBUG: [[32mSUCCESS[0m] done pagination	last cursor: None
+2024-02-24 21:47:08,651.651 DEBUG: processing: ('itsKanishkP', 'https://api.twitter.com/graphql/wjvx62Hye2dGVvnvVco0xA/Following?queryId="wjvx62Hye2dGVvnvVco0xA"&variables={"userId":"itsKanishkP","count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 21:47:08,658.658 DEBUG: processing: ('shreyacasmalert', 'https://api.twitter.com/graphql/wjvx62Hye2dGVvnvVco0xA/Following?queryId="wjvx62Hye2dGVvnvVco0xA"&variables={"userId":"shreyacasmalert","count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 21:47:09,308.308 DEBUG: limits = {'x-rate-limit-limit': '500', 'x-rate-limit-reset': '1708792223', 'x-rate-limit-remaining': '494'}
+2024-02-24 21:47:09,314.314 DEBUG: limits = {'x-rate-limit-limit': '500', 'x-rate-limit-reset': '1708792223', 'x-rate-limit-remaining': '493'}
+2024-02-24 21:47:09,939.939 DEBUG: [[31mERROR[0m]: {'errors': [{'message': 'NumericString value expected. Received itsKanishkP', 'extensions': {'name': 'MalformedVariablesError', 'source': 'Client', 'code': 366, 'kind': 'Validation', 'tracing': {'trace_id': 'a307a9d0a335c59c'}}, 'code': 366, 'kind': 'Validation', 'name': 'MalformedVariablesError', 'source': 'Client', 'tracing': {'trace_id': 'a307a9d0a335c59c'}}]}
+2024-02-24 21:47:09,940.940 DEBUG: cursor = None
+2024-02-24 21:47:09,940.940 DEBUG: (itsKanishkP)	0 unique results
+2024-02-24 21:47:09,940.940 DEBUG: [[32mSUCCESS[0m] done pagination	last cursor: None
+2024-02-24 21:47:09,968.968 DEBUG: [[31mERROR[0m]: {'errors': [{'message': 'NumericString value expected. Received shreyacasmalert', 'extensions': {'name': 'MalformedVariablesError', 'source': 'Client', 'code': 366, 'kind': 'Validation', 'tracing': {'trace_id': '31dd60a55706a687'}}, 'code': 366, 'kind': 'Validation', 'name': 'MalformedVariablesError', 'source': 'Client', 'tracing': {'trace_id': '31dd60a55706a687'}}]}
+2024-02-24 21:47:09,969.969 DEBUG: cursor = None
+2024-02-24 21:47:09,969.969 DEBUG: (shreyacasmalert)	0 unique results
+2024-02-24 21:47:09,969.969 DEBUG: [[32mSUCCESS[0m] done pagination	last cursor: None
+2024-02-24 21:48:50,847.847 DEBUG: processing: ('itsKanishkP', 'https://api.twitter.com/graphql/wjvx62Hye2dGVvnvVco0xA/Following?queryId="wjvx62Hye2dGVvnvVco0xA"&variables={"userId":"itsKanishkP","count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 21:48:51,519.519 DEBUG: limits = {'x-rate-limit-limit': '500', 'x-rate-limit-reset': '1708792223', 'x-rate-limit-remaining': '490'}
+2024-02-24 21:48:52,141.141 DEBUG: [[31mERROR[0m]: {'errors': [{'message': 'NumericString value expected. Received itsKanishkP', 'extensions': {'name': 'MalformedVariablesError', 'source': 'Client', 'code': 366, 'kind': 'Validation', 'tracing': {'trace_id': '4ade684c8385dcda'}}, 'code': 366, 'kind': 'Validation', 'name': 'MalformedVariablesError', 'source': 'Client', 'tracing': {'trace_id': '4ade684c8385dcda'}}]}
+2024-02-24 21:48:52,142.142 DEBUG: cursor = None
+2024-02-24 21:48:52,142.142 DEBUG: (itsKanishkP)	0 unique results
+2024-02-24 21:48:52,142.142 DEBUG: [[32mSUCCESS[0m] done pagination	last cursor: None
+2024-02-24 21:53:07,989.989 DEBUG: processing: (44196397, 'https://api.twitter.com/graphql/pd8Tt1qUz1YWrICegqZ8cw/Followers?queryId="pd8Tt1qUz1YWrICegqZ8cw"&variables={"userId":44196397,"count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 21:53:09,109.109 DEBUG: limits = {'x-rate-limit-limit': '50', 'x-rate-limit-reset': '1708792688', 'x-rate-limit-remaining': '49'}
+2024-02-24 21:53:10,171.171 DEBUG: cursor = '1791798015353935430|1761426544825204614'
+2024-02-24 21:53:10,172.172 DEBUG: (44196397)	50 unique results
+2024-02-24 21:53:11,264.264 DEBUG: cursor = '1791797992062196016|1761426544825204562'
+2024-02-24 21:53:11,265.265 DEBUG: (44196397)	100 unique results
+2024-02-24 21:53:11,266.266 DEBUG: [[32mSUCCESS[0m] done pagination	surpassed limit of 100 results
+2024-02-24 21:54:10,489.489 DEBUG: processing: ('shreyacasmalert', 'https://api.twitter.com/graphql/pd8Tt1qUz1YWrICegqZ8cw/Followers?queryId="pd8Tt1qUz1YWrICegqZ8cw"&variables={"userId":"shreyacasmalert","count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 21:54:11,116.116 DEBUG: limits = {'x-rate-limit-limit': '50', 'x-rate-limit-reset': '1708792688', 'x-rate-limit-remaining': '46'}
+2024-02-24 21:54:11,774.774 DEBUG: [[31mERROR[0m]: {'errors': [{'message': 'NumericString value expected. Received shreyacasmalert', 'extensions': {'name': 'MalformedVariablesError', 'source': 'Client', 'code': 366, 'kind': 'Validation', 'tracing': {'trace_id': '92c213ecf4de0eba'}}, 'code': 366, 'kind': 'Validation', 'name': 'MalformedVariablesError', 'source': 'Client', 'tracing': {'trace_id': '92c213ecf4de0eba'}}]}
+2024-02-24 21:54:11,777.777 DEBUG: cursor = None
+2024-02-24 21:54:11,778.778 DEBUG: (shreyacasmalert)	0 unique results
+2024-02-24 21:54:11,778.778 DEBUG: [[32mSUCCESS[0m] done pagination	last cursor: None
+2024-02-24 21:54:32,474.474 DEBUG: processing: ('shreyacasmalert', 'https://api.twitter.com/graphql/pd8Tt1qUz1YWrICegqZ8cw/Followers?queryId="pd8Tt1qUz1YWrICegqZ8cw"&variables={"userId":"shreyacasmalert","count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 21:54:33,122.122 DEBUG: limits = {'x-rate-limit-limit': '50', 'x-rate-limit-reset': '1708792688', 'x-rate-limit-remaining': '44'}
+2024-02-24 21:54:33,761.761 DEBUG: [[31mERROR[0m]: {'errors': [{'message': 'NumericString value expected. Received shreyacasmalert', 'extensions': {'name': 'MalformedVariablesError', 'source': 'Client', 'code': 366, 'kind': 'Validation', 'tracing': {'trace_id': '275dc668ea3f4696'}}, 'code': 366, 'kind': 'Validation', 'name': 'MalformedVariablesError', 'source': 'Client', 'tracing': {'trace_id': '275dc668ea3f4696'}}]}
+2024-02-24 21:54:33,763.763 DEBUG: cursor = None
+2024-02-24 21:54:33,763.763 DEBUG: (shreyacasmalert)	0 unique results
+2024-02-24 21:54:33,763.763 DEBUG: [[32mSUCCESS[0m] done pagination	last cursor: None
+2024-02-24 21:56:31,460.460 DEBUG: processing: (1184206092714164224, 'https://api.twitter.com/graphql/wjvx62Hye2dGVvnvVco0xA/Following?queryId="wjvx62Hye2dGVvnvVco0xA"&variables={"userId":1184206092714164224,"count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 21:56:32,844.844 DEBUG: limits = {'x-rate-limit-limit': '500', 'x-rate-limit-reset': '1708792223', 'x-rate-limit-remaining': '488'}
+2024-02-24 21:56:34,258.258 DEBUG: cursor = '1747502481068968714|1761427398034718600'
+2024-02-24 21:56:34,260.260 DEBUG: (1184206092714164224)	69 unique results
+2024-02-24 21:56:34,864.864 DEBUG: [[31mERROR[0m]: {'errors': ['internal server error']}
+2024-02-24 21:56:34,865.865 DEBUG: cursor = None
+2024-02-24 21:56:34,865.865 DEBUG: (1184206092714164224)	69 unique results
+2024-02-24 21:56:34,866.866 DEBUG: [[32mSUCCESS[0m] done pagination	last cursor: None
+2024-02-24 21:58:09,197.197 DEBUG: processing: (1332710159076868097, 'https://api.twitter.com/graphql/wjvx62Hye2dGVvnvVco0xA/Following?queryId="wjvx62Hye2dGVvnvVco0xA"&variables={"userId":1332710159076868097,"count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 21:58:10,511.511 DEBUG: limits = {'x-rate-limit-limit': '500', 'x-rate-limit-reset': '1708792223', 'x-rate-limit-remaining': '486'}
+2024-02-24 21:58:11,812.812 DEBUG: cursor = '1778401888631748957|1761427807960825733'
+2024-02-24 21:58:11,814.814 DEBUG: (1332710159076868097)	70 unique results
+2024-02-24 21:58:13,083.083 DEBUG: cursor = '1772818805630412111|1761427807960825681'
+2024-02-24 21:58:13,084.084 DEBUG: (1332710159076868097)	138 unique results
+2024-02-24 21:58:13,851.851 DEBUG: cursor = '1762093708273341462|1761427807960825631'
+2024-02-24 21:58:13,852.852 DEBUG: (1332710159076868097)	202 unique results
+2024-02-24 21:58:14,606.606 DEBUG: cursor = '1752479683603928196|1761427807960825580'
+2024-02-24 21:58:14,607.607 DEBUG: (1332710159076868097)	269 unique results
+2024-02-24 21:58:15,391.391 DEBUG: cursor = '1744420388466582869|1761427807960825530'
+2024-02-24 21:58:15,391.391 DEBUG: (1332710159076868097)	338 unique results
+2024-02-24 21:58:16,008.008 DEBUG: cursor = '1739144410915305534|1761427807960825482'
+2024-02-24 21:58:16,009.009 DEBUG: (1332710159076868097)	402 unique results
+2024-02-24 21:58:16,647.647 DEBUG: cursor = '1731025893185678149|1761427807960825435'
+2024-02-24 21:58:16,650.650 DEBUG: (1332710159076868097)	474 unique results
+2024-02-24 21:58:17,367.367 DEBUG: cursor = '1721400289377271646|1761427807960825385'
+2024-02-24 21:58:17,368.368 DEBUG: (1332710159076868097)	537 unique results
+2024-02-24 21:58:18,053.053 DEBUG: cursor = '1714718087312752888|1761427807960825336'
+2024-02-24 21:58:18,054.054 DEBUG: (1332710159076868097)	598 unique results
+2024-02-24 21:58:18,673.673 DEBUG: cursor = '0|1761427807960825306'
+2024-02-24 21:58:18,674.674 DEBUG: (1332710159076868097)	633 unique results
+2024-02-24 21:58:18,674.674 DEBUG: [[32mSUCCESS[0m] done pagination	last cursor: 0|1761427807960825306
+2024-02-24 22:52:21,352.352 DEBUG: processing: (143766231, 'https://api.twitter.com/graphql/wjvx62Hye2dGVvnvVco0xA/Following?queryId="wjvx62Hye2dGVvnvVco0xA"&variables={"userId":143766231,"count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 22:52:22,189.189 DEBUG: limits = {'x-rate-limit-limit': '500', 'x-rate-limit-reset': '1708796155', 'x-rate-limit-remaining': '498'}
+2024-02-24 22:52:22,979.979 DEBUG: cursor = '0|1761441448688877547'
+2024-02-24 22:52:22,979.979 DEBUG: (143766231)	0 unique results
+2024-02-24 22:52:22,979.979 DEBUG: [[32mSUCCESS[0m] done pagination	last cursor: 0|1761441448688877547
+2024-02-24 22:53:29,445.445 DEBUG: processing: (885487044243238912, 'https://api.twitter.com/graphql/wjvx62Hye2dGVvnvVco0xA/Following?queryId="wjvx62Hye2dGVvnvVco0xA"&variables={"userId":885487044243238912,"count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 22:53:30,263.263 DEBUG: limits = {'x-rate-limit-limit': '500', 'x-rate-limit-reset': '1708796155', 'x-rate-limit-remaining': '496'}
+2024-02-24 22:53:31,082.082 DEBUG: cursor = '0|1761441734291619834'
+2024-02-24 22:53:31,082.082 DEBUG: (885487044243238912)	0 unique results
+2024-02-24 22:53:31,082.082 DEBUG: [[32mSUCCESS[0m] done pagination	last cursor: 0|1761441734291619834
+2024-02-24 23:36:54,060.060 DEBUG: processing: (1132563136186183680, 'https://api.twitter.com/graphql/wjvx62Hye2dGVvnvVco0xA/Following?queryId="wjvx62Hye2dGVvnvVco0xA"&variables={"userId":1132563136186183680,"count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 23:36:54,074.074 DEBUG: processing: (1126068392308297729, 'https://api.twitter.com/graphql/wjvx62Hye2dGVvnvVco0xA/Following?queryId="wjvx62Hye2dGVvnvVco0xA"&variables={"userId":1126068392308297729,"count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 23:36:54,075.075 DEBUG: processing: (402064691, 'https://api.twitter.com/graphql/wjvx62Hye2dGVvnvVco0xA/Following?queryId="wjvx62Hye2dGVvnvVco0xA"&variables={"userId":402064691,"count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 23:36:54,076.076 DEBUG: processing: (18839785, 'https://api.twitter.com/graphql/wjvx62Hye2dGVvnvVco0xA/Following?queryId="wjvx62Hye2dGVvnvVco0xA"&variables={"userId":18839785,"count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 23:36:54,077.077 DEBUG: processing: (159822053, 'https://api.twitter.com/graphql/wjvx62Hye2dGVvnvVco0xA/Following?queryId="wjvx62Hye2dGVvnvVco0xA"&variables={"userId":159822053,"count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 23:36:54,078.078 DEBUG: processing: (14343311, 'https://api.twitter.com/graphql/wjvx62Hye2dGVvnvVco0xA/Following?queryId="wjvx62Hye2dGVvnvVco0xA"&variables={"userId":14343311,"count":1000,"includePromotedContent":true,"withDownvotePerspective":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true,"withSuperFollowsUserFields":true}&features={"responsive_web_twitter_blue_verified_badge_is_enabled":true,"responsive_web_graphql_exclude_directive_enabled":true,"verified_phone_label_enabled":true,"responsive_web_graphql_timeline_navigation_enabled":true,"responsive_web_graphql_skip_user_profile_image_extensions_enabled":true,"tweetypie_unmention_optimization_enabled":true,"vibe_api_enabled":true,"responsive_web_edit_tweet_api_enabled":true,"graphql_is_translatable_rweb_tweet_is_translatable_enabled":true,"view_counts_everywhere_api_enabled":true,"longform_notetweets_consumption_enabled":true,"tweet_awards_web_tipping_enabled":true,"freedom_of_speech_not_reach_fetch_enabled":true,"standardized_nudges_misinfo":true,"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled":true,"interactive_text_enabled":true,"responsive_web_text_conversations_enabled":true,"longform_notetweets_richtext_consumption_enabled":true,"responsive_web_enhance_cards_enabled":true}')
+2024-02-24 23:36:54,981.981 DEBUG: limits = {'x-rate-limit-limit': '500', 'x-rate-limit-reset': '1708798914', 'x-rate-limit-remaining': '496'}
+2024-02-24 23:36:55,252.252 DEBUG: limits = {'x-rate-limit-limit': '500', 'x-rate-limit-reset': '1708798914', 'x-rate-limit-remaining': '497'}
+2024-02-24 23:36:55,290.290 DEBUG: limits = {'x-rate-limit-limit': '500', 'x-rate-limit-reset': '1708798914', 'x-rate-limit-remaining': '498'}
+2024-02-24 23:36:55,294.294 DEBUG: limits = {'x-rate-limit-limit': '500', 'x-rate-limit-reset': '1708798914', 'x-rate-limit-remaining': '499'}
+2024-02-24 23:36:55,316.316 DEBUG: limits = {'x-rate-limit-limit': '500', 'x-rate-limit-reset': '1708798914', 'x-rate-limit-remaining': '494'}
+2024-02-24 23:36:55,319.319 DEBUG: limits = {'x-rate-limit-limit': '500', 'x-rate-limit-reset': '1708798914', 'x-rate-limit-remaining': '495'}
+2024-02-24 23:36:56,057.057 DEBUG: cursor = '0|1761452658570297300'
+2024-02-24 23:36:56,057.057 DEBUG: (159822053)	0 unique results
+2024-02-24 23:36:56,057.057 DEBUG: [[32mSUCCESS[0m] done pagination	last cursor: 0|1761452658570297300
+2024-02-24 23:36:56,564.564 DEBUG: cursor = '1769461355595261139|1761452658566102916'
+2024-02-24 23:36:56,565.565 DEBUG: (18839785)	63 unique results
+2024-02-24 23:36:56,574.574 DEBUG: cursor = '1774950135226610286|1761452658637406087'
+2024-02-24 23:36:56,575.575 DEBUG: (1126068392308297729)	77 unique results
+2024-02-24 23:36:56,583.583 DEBUG: cursor = '1746865405979962747|1761452658566102920'
+2024-02-24 23:36:56,584.584 DEBUG: (1132563136186183680)	78 unique results
+2024-02-24 23:36:56,589.589 DEBUG: cursor = '1782139769802759704|1761452658561908612'
+2024-02-24 23:36:56,590.590 DEBUG: (402064691)	71 unique results
+2024-02-24 23:36:56,597.597 DEBUG: cursor = '1774497432776301611|1761452658561908612'
+2024-02-24 23:36:56,598.598 DEBUG: (14343311)	63 unique results
+2024-02-24 23:36:57,798.798 DEBUG: cursor = '1725932928663709335|1761452658566102872'
+2024-02-24 23:36:57,800.800 DEBUG: (1132563136186183680)	161 unique results
+2024-02-24 23:36:57,807.807 DEBUG: cursor = '1764154272620710189|1761452658637406036'
+2024-02-24 23:36:57,809.809 DEBUG: (1126068392308297729)	157 unique results
+2024-02-24 23:36:57,815.815 DEBUG: cursor = '1756818723802279505|1761452658566102864'
+2024-02-24 23:36:57,816.816 DEBUG: (18839785)	127 unique results
+2024-02-24 23:36:57,831.831 DEBUG: cursor = '1772478668349829603|1761452658561908560'
+2024-02-24 23:36:57,832.832 DEBUG: (402064691)	146 unique results
+2024-02-24 23:36:57,837.837 DEBUG: cursor = '1766222491569845239|1761452658561908561'
+2024-02-24 23:36:57,839.839 DEBUG: (14343311)	127 unique results
+2024-02-24 23:36:58,546.546 DEBUG: cursor = '1759878131223068456|1761452658561908509'
+2024-02-24 23:36:58,547.547 DEBUG: (14343311)	192 unique results
+2024-02-24 23:36:59,036.036 DEBUG: cursor = '1740468995620012472|1761452658566102812'
+2024-02-24 23:36:59,038.038 DEBUG: (18839785)	197 unique results
+2024-02-24 23:36:59,069.069 DEBUG: cursor = '1768130830915413697|1761452658561908508'
+2024-02-24 23:36:59,070.070 DEBUG: (402064691)	222 unique results
+2024-02-24 23:36:59,086.086 DEBUG: cursor = '1720211490185639120|1761452658566102821'
+2024-02-24 23:36:59,088.088 DEBUG: (1132563136186183680)	243 unique results
+2024-02-24 23:36:59,095.095 DEBUG: cursor = '1749482559029592541|1761452658637405984'
+2024-02-24 23:36:59,096.096 DEBUG: (1126068392308297729)	236 unique results
+2024-02-24 23:36:59,266.266 DEBUG: cursor = '1754189765894046421|1761452658561908457'
+2024-02-24 23:36:59,267.267 DEBUG: (14343311)	257 unique results
+2024-02-24 23:36:59,710.710 DEBUG: cursor = '1720754560547683547|1761452658566102760'
+2024-02-24 23:36:59,711.711 DEBUG: (18839785)	252 unique results
+2024-02-24 23:36:59,767.767 DEBUG: cursor = '1765261820870201254|1761452658561908456'
+2024-02-24 23:36:59,768.768 DEBUG: (402064691)	295 unique results
+2024-02-24 23:36:59,807.807 DEBUG: cursor = '1717694319592561886|1761452658566102771'
+2024-02-24 23:36:59,808.808 DEBUG: (1132563136186183680)	329 unique results
+2024-02-24 23:36:59,864.864 DEBUG: cursor = '1744394661506247775|1761452658637405932'
+2024-02-24 23:36:59,865.865 DEBUG: (1126068392308297729)	315 unique results
+2024-02-24 23:36:59,949.949 DEBUG: cursor = '1747970638512162745|1761452658561908406'
+2024-02-24 23:36:59,950.950 DEBUG: (14343311)	321 unique results
+2024-02-24 23:37:00,401.401 DEBUG: cursor = '1716599192658676528|1761452658566102708'
+2024-02-24 23:37:00,402.402 DEBUG: (18839785)	312 unique results
+2024-02-24 23:37:00,486.486 DEBUG: cursor = '1763259090351726874|1761452658561908404'
+2024-02-24 23:37:00,487.487 DEBUG: (402064691)	372 unique results
+2024-02-24 23:37:00,505.505 DEBUG: cursor = '1716337156357834874|1761452658566102719'
+2024-02-24 23:37:00,506.506 DEBUG: (1132563136186183680)	407 unique results
+2024-02-24 23:37:00,572.572 DEBUG: cursor = '1738254931754248432|1761452658637405881'
+2024-02-24 23:37:00,573.573 DEBUG: (1126068392308297729)	403 unique results
+2024-02-24 23:37:00,643.643 DEBUG: cursor = '1742789080428448437|1761452658561908355'
+2024-02-24 23:37:00,644.644 DEBUG: (14343311)	387 unique results
+2024-02-24 23:37:01,141.141 DEBUG: cursor = '1660578159959582612|1761452658566102656'
+2024-02-24 23:37:01,142.142 DEBUG: (18839785)	376 unique results
+2024-02-24 23:37:01,182.182 DEBUG: cursor = '1760331172544222230|1761452658561908352'
+2024-02-24 23:37:01,183.183 DEBUG: (402064691)	446 unique results
+2024-02-24 23:37:01,246.246 DEBUG: cursor = '1713712213042219803|1761452658566102668'
+2024-02-24 23:37:01,247.247 DEBUG: (1132563136186183680)	491 unique results
+2024-02-24 23:37:01,273.273 DEBUG: cursor = '1732872707809235128|1761452658637405829'
+2024-02-24 23:37:01,274.274 DEBUG: (1126068392308297729)	487 unique results
+2024-02-24 23:37:01,396.396 DEBUG: cursor = '1734635143315522508|1761452658561908303'
+2024-02-24 23:37:01,397.397 DEBUG: (14343311)	449 unique results
+2024-02-24 23:37:01,772.772 DEBUG: cursor = '1654530292670544929|1761452658566102604'
+2024-02-24 23:37:01,774.774 DEBUG: (18839785)	437 unique results
+2024-02-24 23:37:01,908.908 DEBUG: cursor = '1757203270896584152|1761452658561908300'
+2024-02-24 23:37:01,910.910 DEBUG: (402064691)	524 unique results
+2024-02-24 23:37:01,944.944 DEBUG: cursor = '1710697368577192159|1761452658566102616'
+2024-02-24 23:37:01,945.945 DEBUG: (1132563136186183680)	575 unique results
+2024-02-24 23:37:02,141.141 DEBUG: cursor = '1726840526198545678|1761452658637405778'
+2024-02-24 23:37:02,142.142 DEBUG: (1126068392308297729)	571 unique results
+2024-02-24 23:37:02,193.193 DEBUG: cursor = '1730430418354143348|1761452658561908252'
+2024-02-24 23:37:02,194.194 DEBUG: (14343311)	516 unique results
+2024-02-24 23:37:02,457.457 DEBUG: cursor = '1646816246888892127|1761452658566102552'
+2024-02-24 23:37:02,458.458 DEBUG: (18839785)	497 unique results
+2024-02-24 23:37:02,616.616 DEBUG: cursor = '1753937595651644669|1761452658561908248'
+2024-02-24 23:37:02,616.616 DEBUG: (402064691)	603 unique results
+2024-02-24 23:37:02,632.632 DEBUG: cursor = '1704915477824827296|1761452658566102566'
+2024-02-24 23:37:02,633.633 DEBUG: (1132563136186183680)	650 unique results
+2024-02-24 23:37:02,804.804 DEBUG: cursor = '1724996730812986556|1761452658561908201'
+2024-02-24 23:37:02,805.805 DEBUG: (14343311)	575 unique results
+2024-02-24 23:37:02,917.917 DEBUG: cursor = '1721947267021145633|1761452658637405728'
+2024-02-24 23:37:02,918.918 DEBUG: (1126068392308297729)	647 unique results
+2024-02-24 23:37:03,200.200 DEBUG: cursor = '1644919446359930800|1761452658566102500'
+2024-02-24 23:37:03,200.200 DEBUG: (18839785)	562 unique results
+2024-02-24 23:37:03,375.375 DEBUG: cursor = '1679743564448672356|1761452658566102516'
+2024-02-24 23:37:03,376.376 DEBUG: (1132563136186183680)	718 unique results
+2024-02-24 23:37:03,506.506 DEBUG: cursor = '1747771889632375968|1761452658561908196'
+2024-02-24 23:37:03,507.507 DEBUG: (402064691)	681 unique results
+2024-02-24 23:37:03,511.511 DEBUG: cursor = '1721775691187882154|1761452658561908149'
+2024-02-24 23:37:03,512.512 DEBUG: (14343311)	642 unique results
+2024-02-24 23:37:03,665.665 DEBUG: cursor = '1719465157247926087|1761452658637405678'
+2024-02-24 23:37:03,666.666 DEBUG: (1126068392308297729)	722 unique results
+2024-02-24 23:37:03,977.977 DEBUG: cursor = '1638487479800412878|1761452658566102448'
+2024-02-24 23:37:03,978.978 DEBUG: (18839785)	629 unique results
+2024-02-24 23:37:04,097.097 DEBUG: cursor = '1650280882651297178|1761452658566102468'
+2024-02-24 23:37:04,098.098 DEBUG: (1132563136186183680)	790 unique results
+2024-02-24 23:37:04,202.202 DEBUG: cursor = '1745421901219867738|1761452658561908144'
+2024-02-24 23:37:04,203.203 DEBUG: (402064691)	760 unique results
+2024-02-24 23:37:04,296.296 DEBUG: cursor = '1705358665660228206|1761452658637405629'
+2024-02-24 23:37:04,297.297 DEBUG: (1126068392308297729)	785 unique results
+2024-02-24 23:37:04,304.304 DEBUG: cursor = '1719210776861095395|1761452658561908097'
+2024-02-24 23:37:04,304.304 DEBUG: (14343311)	710 unique results
+2024-02-24 23:37:04,621.621 DEBUG: cursor = '0|1761452658566102447'
+2024-02-24 23:37:04,621.621 DEBUG: (1132563136186183680)	817 unique results
+2024-02-24 23:37:04,621.621 DEBUG: [[32mSUCCESS[0m] done pagination	last cursor: 0|1761452658566102447
+2024-02-24 23:37:04,695.695 DEBUG: cursor = '1628621266124855780|1761452658566102397'
+2024-02-24 23:37:04,695.695 DEBUG: (18839785)	694 unique results
+2024-02-24 23:37:04,885.885 DEBUG: cursor = '1743977633114950800|1761452658561908094'
+2024-02-24 23:37:04,886.886 DEBUG: (402064691)	834 unique results
+2024-02-24 23:37:04,994.994 DEBUG: cursor = '1715595573514191217|1761452658561908045'
+2024-02-24 23:37:04,996.996 DEBUG: (14343311)	775 unique results
+2024-02-24 23:37:05,060.060 DEBUG: cursor = '1690966421798747825|1761452658637405577'
+2024-02-24 23:37:05,061.061 DEBUG: (1126068392308297729)	850 unique results
+2024-02-24 23:37:05,522.522 DEBUG: cursor = '1621452618348588220|1761452658566102346'
+2024-02-24 23:37:05,524.524 DEBUG: (18839785)	760 unique results
+2024-02-24 23:37:05,589.589 DEBUG: cursor = '1741035244109949943|1761452658561908043'
+2024-02-24 23:37:05,591.591 DEBUG: (402064691)	910 unique results
+2024-02-24 23:37:05,757.757 DEBUG: cursor = '1684668517973474748|1761452658637405525'
+2024-02-24 23:37:05,758.758 DEBUG: (1126068392308297729)	915 unique results
+2024-02-24 23:37:05,917.917 DEBUG: cursor = '1711624720037468802|1761452658561907993'
+2024-02-24 23:37:05,919.919 DEBUG: (14343311)	832 unique results
+2024-02-24 23:37:06,104.104 DEBUG: cursor = '1617113872807708913|1761452658566102294'
+2024-02-24 23:37:06,105.105 DEBUG: (18839785)	816 unique results
+2024-02-24 23:37:06,285.285 DEBUG: cursor = '1737862051394787816|1761452658561907993'
+2024-02-24 23:37:06,286.286 DEBUG: (402064691)	988 unique results
+2024-02-24 23:37:06,356.356 DEBUG: cursor = '1671753731390035130|1761452658637405475'
+2024-02-24 23:37:06,356.356 DEBUG: (1126068392308297729)	979 unique results
+2024-02-24 23:37:06,586.586 DEBUG: cursor = '1709888821567007110|1761452658561907942'
+2024-02-24 23:37:06,587.587 DEBUG: (14343311)	889 unique results
+2024-02-24 23:37:06,774.774 DEBUG: cursor = '1611847442458117153|1761452658566102243'
+2024-02-24 23:37:06,775.775 DEBUG: (18839785)	878 unique results
+2024-02-24 23:37:06,968.968 DEBUG: cursor = '1733454611438685815|1761452658561907942'
+2024-02-24 23:37:06,970.970 DEBUG: (402064691)	1055 unique results
+2024-02-24 23:37:07,057.057 DEBUG: cursor = '1667925887890192890|1761452658637405424'
+2024-02-24 23:37:07,059.059 DEBUG: (1126068392308297729)	1047 unique results
+2024-02-24 23:37:07,188.188 DEBUG: cursor = '1708001413618898940|1761452658561907890'
+2024-02-24 23:37:07,189.189 DEBUG: (14343311)	946 unique results
+2024-02-24 23:37:07,474.474 DEBUG: cursor = '1609852477327610656|1761452658566102191'
+2024-02-24 23:37:07,475.475 DEBUG: (18839785)	945 unique results
+2024-02-24 23:37:07,596.596 DEBUG: cursor = '1730272880889788818|1761452658561907894'
+2024-02-24 23:37:07,598.598 DEBUG: (402064691)	1115 unique results
+2024-02-24 23:37:07,783.783 DEBUG: cursor = '1665322455944890568|1761452658637405372'
+2024-02-24 23:37:07,784.784 DEBUG: (1126068392308297729)	1112 unique results
+2024-02-24 23:37:07,789.789 DEBUG: cursor = '1707960963417940673|1761452658561907838'
+2024-02-24 23:37:07,790.790 DEBUG: (14343311)	1001 unique results
+2024-02-24 23:37:08,124.124 DEBUG: cursor = '1594380468009615666|1761452658566102140'
+2024-02-24 23:37:08,130.130 DEBUG: (18839785)	1005 unique results
+2024-02-24 23:37:08,387.387 DEBUG: cursor = '1727578911872135965|1761452658561907842'
+2024-02-24 23:37:08,388.388 DEBUG: (402064691)	1191 unique results
+2024-02-24 23:37:08,436.436 DEBUG: cursor = '1707921067808004813|1761452658561907786'
+2024-02-24 23:37:08,437.437 DEBUG: (14343311)	1059 unique results
+2024-02-24 23:37:08,514.514 DEBUG: cursor = '1662571218610809437|1761452658637405320'
+2024-02-24 23:37:08,514.514 DEBUG: (1126068392308297729)	1177 unique results
+2024-02-24 23:37:08,824.824 DEBUG: cursor = '1593830964923461915|1761452658566102088'
+2024-02-24 23:37:08,825.825 DEBUG: (18839785)	1068 unique results
+2024-02-24 23:37:08,996.996 DEBUG: cursor = '1723639745829555358|1761452658561907792'
+2024-02-24 23:37:08,996.996 DEBUG: (402064691)	1261 unique results
+2024-02-24 23:37:09,006.006 DEBUG: cursor = '1707919225153905195|1761452658561907734'
+2024-02-24 23:37:09,006.006 DEBUG: (14343311)	1117 unique results
+2024-02-24 23:37:09,294.294 DEBUG: cursor = '1661118877898560336|1761452658637405268'
+2024-02-24 23:37:09,295.295 DEBUG: (1126068392308297729)	1241 unique results
+2024-02-24 23:37:09,514.514 DEBUG: cursor = '1578814915884394934|1761452658566102036'
+2024-02-24 23:37:09,516.516 DEBUG: (18839785)	1130 unique results
+2024-02-24 23:37:09,605.605 DEBUG: cursor = '1707916342493741108|1761452658561907683'
+2024-02-24 23:37:09,606.606 DEBUG: (14343311)	1173 unique results
+2024-02-24 23:37:09,613.613 DEBUG: cursor = '1721052512502563780|1761452658561907740'
+2024-02-24 23:37:09,615.615 DEBUG: (402064691)	1332 unique results
+2024-02-24 23:37:09,943.943 DEBUG: cursor = '1658685277261713122|1761452658637405217'
+2024-02-24 23:37:09,945.945 DEBUG: (1126068392308297729)	1307 unique results
+2024-02-24 23:37:10,208.208 DEBUG: cursor = '1578811591502561883|1761452658566101984'
+2024-02-24 23:37:10,209.209 DEBUG: (18839785)	1196 unique results
+2024-02-24 23:37:10,213.213 DEBUG: cursor = '1719009316229616815|1761452658561907690'
+2024-02-24 23:37:10,214.214 DEBUG: (402064691)	1400 unique results
+2024-02-24 23:37:10,228.228 DEBUG: cursor = '1707910279018672225|1761452658561907631'
+2024-02-24 23:37:10,229.229 DEBUG: (14343311)	1237 unique results
+2024-02-24 23:37:10,702.702 DEBUG: cursor = '1653813498766792967|1761452658637405166'
+2024-02-24 23:37:10,704.704 DEBUG: (1126068392308297729)	1374 unique results
+2024-02-24 23:37:10,876.876 DEBUG: cursor = '1566035601645310928|1761452658566101933'
+2024-02-24 23:37:10,876.876 DEBUG: (18839785)	1253 unique results
+2024-02-24 23:37:10,932.932 DEBUG: cursor = '1705996091786967366|1761452658561907580'
+2024-02-24 23:37:10,932.932 DEBUG: (14343311)	1296 unique results
+2024-02-24 23:37:10,967.967 DEBUG: cursor = '1716692814348740806|1761452658561907639'
+2024-02-24 23:37:10,968.968 DEBUG: (402064691)	1475 unique results
+2024-02-24 23:37:11,298.298 DEBUG: cursor = '0|1761452658637405122'
+2024-02-24 23:37:11,298.298 DEBUG: (1126068392308297729)	1429 unique results
+2024-02-24 23:37:11,298.298 DEBUG: [[32mSUCCESS[0m] done pagination	last cursor: 0|1761452658637405122
+2024-02-24 23:37:11,477.477 DEBUG: cursor = '1561734611699621824|1761452658566101882'
+2024-02-24 23:37:11,477.477 DEBUG: (18839785)	1315 unique results
+2024-02-24 23:37:11,578.578 DEBUG: cursor = '1713802409679550169|1761452658561907589'
+2024-02-24 23:37:11,578.578 DEBUG: (402064691)	1540 unique results
+2024-02-24 23:37:11,671.671 DEBUG: cursor = '1700896319336592287|1761452658561907528'
+2024-02-24 23:37:11,672.672 DEBUG: (14343311)	1351 unique results
+2024-02-24 23:37:12,220.220 DEBUG: cursor = '1555309434148939445|1761452658566101830'
+2024-02-24 23:37:12,221.221 DEBUG: (18839785)	1383 unique results
+2024-02-24 23:37:12,282.282 DEBUG: cursor = '1709191881193685046|1761452658561907538'
+2024-02-24 23:37:12,283.283 DEBUG: (402064691)	1611 unique results
+2024-02-24 23:37:12,402.402 DEBUG: cursor = '1691778723658184042|1761452658561907478'
+2024-02-24 23:37:12,403.403 DEBUG: (14343311)	1413 unique results
+2024-02-24 23:37:12,843.843 DEBUG: cursor = '1555307314486580996|1761452658566101778'
+2024-02-24 23:37:12,844.844 DEBUG: (18839785)	1446 unique results
+2024-02-24 23:37:12,853.853 DEBUG: cursor = '1706563742511201222|1761452658561907487'
+2024-02-24 23:37:12,854.854 DEBUG: (402064691)	1674 unique results
+2024-02-24 23:37:13,132.132 DEBUG: cursor = '1680546893054232833|1761452658561907427'
+2024-02-24 23:37:13,133.133 DEBUG: (14343311)	1474 unique results
+2024-02-24 23:37:13,481.481 DEBUG: cursor = '1704309783275641787|1761452658561907435'
+2024-02-24 23:37:13,482.482 DEBUG: (402064691)	1736 unique results
+2024-02-24 23:37:13,485.485 DEBUG: cursor = '1552863849847984697|1761452658566101726'
+2024-02-24 23:37:13,485.485 DEBUG: (18839785)	1505 unique results
+2024-02-24 23:37:13,731.731 DEBUG: cursor = '1672087250872683265|1761452658561907379'
+2024-02-24 23:37:13,731.731 DEBUG: (14343311)	1533 unique results
+2024-02-24 23:37:14,048.048 DEBUG: cursor = '1552862689722176790|1761452658566101674'
+2024-02-24 23:37:14,049.049 DEBUG: (18839785)	1569 unique results
+2024-02-24 23:37:14,185.185 DEBUG: cursor = '1701982969599821274|1761452658561907383'
+2024-02-24 23:37:14,186.186 DEBUG: (402064691)	1806 unique results
+2024-02-24 23:37:14,531.531 DEBUG: cursor = '1665684062787756594|1761452658561907328'
+2024-02-24 23:37:14,532.532 DEBUG: (14343311)	1590 unique results
+2024-02-24 23:37:14,759.759 DEBUG: cursor = '1545732372252535275|1761452658566101622'
+2024-02-24 23:37:14,760.760 DEBUG: (18839785)	1628 unique results
+2024-02-24 23:37:14,955.955 DEBUG: cursor = '1699467379741618278|1761452658561907331'
+2024-02-24 23:37:14,955.955 DEBUG: (402064691)	1874 unique results
+2024-02-24 23:37:15,165.165 DEBUG: cursor = '1657014756486188509|1761452658561907276'
+2024-02-24 23:37:15,166.166 DEBUG: (14343311)	1643 unique results
+2024-02-24 23:37:15,338.338 DEBUG: cursor = '1529681368216955244|1761452658566101570'
+2024-02-24 23:37:15,342.342 DEBUG: (18839785)	1688 unique results
+2024-02-24 23:37:15,551.551 DEBUG: cursor = '1691378281952629926|1761452658561907280'
+2024-02-24 23:37:15,552.552 DEBUG: (402064691)	1933 unique results
+2024-02-24 23:37:15,830.830 DEBUG: cursor = '1643424698220434247|1761452658561907224'
+2024-02-24 23:37:15,831.831 DEBUG: (14343311)	1704 unique results
+2024-02-24 23:37:15,991.991 DEBUG: cursor = '1529678998950473078|1761452658566101519'
+2024-02-24 23:37:15,993.993 DEBUG: (18839785)	1744 unique results
+2024-02-24 23:37:16,155.155 DEBUG: cursor = '1426222988006475838|1761452658561907228'
+2024-02-24 23:37:16,156.156 DEBUG: (402064691)	1992 unique results
+2024-02-24 23:37:16,443.443 DEBUG: cursor = '1631916936656948869|1761452658561907172'
+2024-02-24 23:37:16,444.444 DEBUG: (14343311)	1759 unique results
+2024-02-24 23:37:16,566.566 DEBUG: cursor = '0|1761452658561907222'
+2024-02-24 23:37:16,566.566 DEBUG: (402064691)	1996 unique results
+2024-02-24 23:37:16,567.567 DEBUG: [[32mSUCCESS[0m] done pagination	last cursor: 0|1761452658561907222
+2024-02-24 23:37:16,599.599 DEBUG: cursor = '1529677043932428404|1761452658566101467'
+2024-02-24 23:37:16,600.600 DEBUG: (18839785)	1800 unique results
+2024-02-24 23:37:17,137.137 DEBUG: cursor = '1615773004678747452|1761452658561907121'
+2024-02-24 23:37:17,138.138 DEBUG: (14343311)	1826 unique results
+2024-02-24 23:37:17,171.171 DEBUG: cursor = '1504673874066736048|1761452658566101416'
+2024-02-24 23:37:17,171.171 DEBUG: (18839785)	1858 unique results
+2024-02-24 23:37:17,838.838 DEBUG: cursor = '1607306010057217164|1761452658561907069'
+2024-02-24 23:37:17,839.839 DEBUG: (14343311)	1880 unique results
+2024-02-24 23:37:17,853.853 DEBUG: cursor = '1499067135801017154|1761452658566101365'
+2024-02-24 23:37:17,853.853 DEBUG: (18839785)	1917 unique results
+2024-02-24 23:37:18,471.471 DEBUG: cursor = '1499066687714456507|1761452658566101313'
+2024-02-24 23:37:18,473.473 DEBUG: (18839785)	1977 unique results
+2024-02-24 23:37:18,533.533 DEBUG: cursor = '1595299332661285268|1761452658561907018'
+2024-02-24 23:37:18,534.534 DEBUG: (14343311)	1937 unique results
+2024-02-24 23:37:19,075.075 DEBUG: cursor = '1492904999539509308|1761452658566101261'
+2024-02-24 23:37:19,077.077 DEBUG: (18839785)	2035 unique results
+2024-02-24 23:37:19,247.247 DEBUG: cursor = '1553638586812032524|1761452658561906966'
+2024-02-24 23:37:19,248.248 DEBUG: (14343311)	1997 unique results
+2024-02-24 23:37:19,680.680 DEBUG: cursor = '1456486452488163682|1761452658566101210'
+2024-02-24 23:37:19,681.681 DEBUG: (18839785)	2089 unique results
+2024-02-24 23:37:19,837.837 DEBUG: cursor = '1519642041826964414|1761452658561906915'
+2024-02-24 23:37:19,845.845 DEBUG: (14343311)	2050 unique results
+2024-02-24 23:37:20,346.346 DEBUG: cursor = '1456011343468378604|1761452658566101158'
+2024-02-24 23:37:20,347.347 DEBUG: (18839785)	2159 unique results
+2024-02-24 23:37:20,450.450 DEBUG: cursor = '1503589915023580866|1761452658561906863'
+2024-02-24 23:37:20,451.451 DEBUG: (14343311)	2106 unique results
+2024-02-24 23:37:21,033.033 DEBUG: cursor = '1456011201900919653|1761452658566101106'
+2024-02-24 23:37:21,034.034 DEBUG: (18839785)	2218 unique results
+2024-02-24 23:37:21,210.210 DEBUG: cursor = '1494970466136716196|1761452658561906811'
+2024-02-24 23:37:21,211.211 DEBUG: (14343311)	2167 unique results
+2024-02-24 23:37:21,676.676 DEBUG: cursor = '1450680505225551884|1761452658566101056'
+2024-02-24 23:37:21,677.677 DEBUG: (18839785)	2269 unique results
+2024-02-24 23:37:21,752.752 DEBUG: cursor = '1435115127520505696|1761452658561906759'
+2024-02-24 23:37:21,752.752 DEBUG: (14343311)	2221 unique results
+2024-02-24 23:37:22,352.352 DEBUG: cursor = '1449757127873297155|1761452658566101004'
+2024-02-24 23:37:22,353.353 DEBUG: (18839785)	2328 unique results
+2024-02-24 23:37:22,367.367 DEBUG: cursor = '1399844633329679555|1761452658561906708'
+2024-02-24 23:37:22,367.367 DEBUG: (14343311)	2277 unique results
+2024-02-24 23:37:22,956.956 DEBUG: cursor = '1357955831160880228|1761452658561906656'
+2024-02-24 23:37:22,958.958 DEBUG: (14343311)	2332 unique results
+2024-02-24 23:37:23,050.050 DEBUG: cursor = '1446436426185771993|1761452658566100952'
+2024-02-24 23:37:23,052.052 DEBUG: (18839785)	2393 unique results
+2024-02-24 23:37:23,543.543 DEBUG: cursor = '1312176122866533094|1761452658561906604'
+2024-02-24 23:37:23,545.545 DEBUG: (14343311)	2386 unique results
+2024-02-24 23:37:23,805.805 DEBUG: cursor = '1444894244423769069|1761452658566100900'
+2024-02-24 23:37:23,806.806 DEBUG: (18839785)	2453 unique results
+2024-02-24 23:37:24,140.140 DEBUG: cursor = '1297140975403262688|1761452658561906552'
+2024-02-24 23:37:24,142.142 DEBUG: (14343311)	2436 unique results
+2024-02-24 23:37:24,371.371 DEBUG: cursor = '1442871865203290127|1761452658566100848'
+2024-02-24 23:37:24,371.371 DEBUG: (18839785)	2511 unique results
+2024-02-24 23:37:24,703.703 DEBUG: cursor = '0|1761452658561906516'
+2024-02-24 23:37:24,705.705 DEBUG: (14343311)	2470 unique results
+2024-02-24 23:37:24,705.705 DEBUG: [[32mSUCCESS[0m] done pagination	last cursor: 0|1761452658561906516
+2024-02-24 23:37:25,061.061 DEBUG: cursor = '1442870210585092056|1761452658566100796'
+2024-02-24 23:37:25,063.063 DEBUG: (18839785)	2575 unique results
+2024-02-24 23:37:25,680.680 DEBUG: cursor = '1442826931545681117|1761452658566100744'
+2024-02-24 23:37:25,682.682 DEBUG: (18839785)	2639 unique results
+2024-02-24 23:37:26,380.380 DEBUG: cursor = '1442824877598348784|1761452658566100692'
+2024-02-24 23:37:26,381.381 DEBUG: (18839785)	2702 unique results
+2024-02-24 23:37:26,966.966 DEBUG: cursor = '1441315157374383155|1761452658566100641'
+2024-02-24 23:37:26,968.968 DEBUG: (18839785)	2760 unique results
+2024-02-24 23:37:27,525.525 DEBUG: cursor = '1425134925578929526|1761452658566100590'
+2024-02-24 23:37:27,525.525 DEBUG: (18839785)	2819 unique results
+2024-02-24 23:37:28,184.184 DEBUG: cursor = '1410361730459839179|1761452658566100538'
+2024-02-24 23:37:28,186.186 DEBUG: (18839785)	2882 unique results
+2024-02-24 23:37:28,848.848 DEBUG: cursor = '1410360953887407952|1761452658566100488'
+2024-02-24 23:37:28,849.849 DEBUG: (18839785)	2936 unique results
+2024-02-24 23:37:29,395.395 DEBUG: cursor = '1390405398454704462|1761452658566100436'
+2024-02-24 23:37:29,397.397 DEBUG: (18839785)	2991 unique results
+2024-02-24 23:37:30,073.073 DEBUG: cursor = '1389737141014847049|1761452658566100385'
+2024-02-24 23:37:30,074.074 DEBUG: (18839785)	3048 unique results
+2024-02-24 23:37:30,691.691 DEBUG: cursor = '1389736983729364243|1761452658566100333'
+2024-02-24 23:37:30,692.692 DEBUG: (18839785)	3100 unique results
+2024-02-24 23:37:31,330.330 DEBUG: cursor = '1389736712681989412|1761452658566100284'
+2024-02-24 23:37:31,334.334 DEBUG: (18839785)	3154 unique results
+2024-02-24 23:37:31,786.786 DEBUG: cursor = '0|1761452658566100276'
+2024-02-24 23:37:31,787.787 DEBUG: (18839785)	3162 unique results
+2024-02-24 23:37:31,787.787 DEBUG: [[32mSUCCESS[0m] done pagination	last cursor: 0|1761452658566100276
