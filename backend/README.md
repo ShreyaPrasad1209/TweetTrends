@@ -8,7 +8,7 @@
 `python3 -m venv venv && source venv/bin/activate`
 
 -- install requirements
-`python3 -m pip -r requirements.txt`
+`python3 -m pip install -r requirements.txt`
 
 -- run the server
 `python3 src.xtrending.main:app`
