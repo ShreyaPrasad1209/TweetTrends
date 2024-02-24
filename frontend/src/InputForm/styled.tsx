@@ -18,13 +18,13 @@ export const Input = styled.input`
   width: 300px;
   display: flex;
   &:hover {
-    border-color: #0056b3; /* Darker blue on hover */
-  }
-  &:focus {
-    box-shadow: 0 0 8px rgba(0, 123, 255, 0.6), 0 4px 8px rgba(0, 0, 0, 0.25); /* Enhanced blue glow on focus + stronger shadow */
     border-color: #0056b3;
   }
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Enhanced subtle shadow */
+  &:focus {
+    box-shadow: 0 0 8px rgba(0, 123, 255, 0.6), 0 4px 8px rgba(0, 0, 0, 0.25);
+    border-color: #0056b3;
+  }
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
   transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 `;
 
@@ -33,11 +33,10 @@ export const Select = styled.select`
   border-radius: 5px;
   width: 320px;
   &:hover {
-    border-color: #0056b3; /* Darker blue on hover */
+    border-color: #0056b3;
   }
   &:focus {
-    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Blue glow on focus */
-    border-color: #0056b3;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
   }
   transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 `;
@@ -65,7 +64,7 @@ export const TitleLogoWrapper = styled.div`
 
 export const Button = styled.button`
   padding: 10px 20px;
-  background-color: #1da1f2; /* Bootstrap primary blue */
+  background-color: #1da1f2;
   color: white;
   border: none;
   border-radius: 5px;
@@ -74,6 +73,16 @@ export const Button = styled.button`
   transition: background-color 0.3s;
 
   &:hover {
-    background-color: #134e6c; /* Darker blue on hover */
+    background-color: #134e6c;
   }
+`;
+
+export const UserProfileContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  flex-flow: row wrap;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
 `;
